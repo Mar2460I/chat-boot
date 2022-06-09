@@ -1,0 +1,2836 @@
+{
+    "DEFAULT":{
+        "replyMessage":[
+            "*Esta respuesta es una respuesta default* cuando no se consigue una palabra clave \n",
+            "prueba escribiendo *hola* para regresar al menú inicial \n"
+           
+        ],
+        "media":null,
+        "trigger":null
+    },
+    "STEP_0":{
+        "replyMessage":[
+          "*EN BREVE UN ASESOR EDUCATIVO SE PONDRA EN CONTCATO CONTIGO…*" 
+        
+        ],
+        "media":null,
+        "trigger":null
+    },
+    "STEP_1":{
+        "replyMessage":[
+        
+            "*Gracias por comunicarte al departamento de Call Center U.A.L.😁",
+            " Selecciona el plantel o centro de enlace del cuál requieres informes:📄*\n\n",
+            "*1*. U.A.L. Plantel Toluca norte San Blas Otzacatipan🏫\n",
+            "*2*. U.A.L. Plantel Toluca Col. Morelos🏫\n",
+            "*3*. U.A.L. Centro de enlace Toluca Centro🏫\n",
+            "*4*. U.A.L. Centro de enlace Villa Victoria🏫\n",
+            "*5*. U.A.L. Centro de enlace Valle de Bravo🏫\n",
+            "*6*. U.A.L-IUniversitatis Plantel Zitácuaro Michoacán🏫\n",
+            "*7*. U.A.L. Plantel Cabos San Lucas🏫\n",
+            "*8*. U.A.L. Plantel San José del Cabo🏫\n",
+            "*Escriba el número de su preferencia* 😁😁\n\n",
+            "¿Deseas conocer otro Centro de Enlace? *SI/NO* 🏫\n"
+        ], 
+        "media":null,
+        "trigger":null
+        
+    },
+    
+    "STEP_2":{
+        "replyMessage":[
+            "*Selecciona el grado de tu interés.*\n\n",
+            "*A)* Bachillerato\n",
+            "*B)* Licenciaturas\n",
+            "*C)* Especialidades\n",
+            "*D)* Maestrías\n",
+            "*E)* Doctorados\n",
+            "*Escribe la opción de tu interés (ejemplo: A)*\n"
+
+        ],
+        "media":null,
+        "trigger":null
+    },
+    "STEP_2_21":{
+        "replyMessage":[
+            "*¿Qué tipo de programa te gustaría estudiar?*\n\n",
+            "*A.B1)* Escolarizado presencial\n",
+            "*B.B1)* Ejecutivo Presencial\n",
+            "*Escribe la opción de tu interés (ejemplo: A.B1)*\n"
+
+        ],
+        "media":null,
+        "trigger":null
+    },
+    "STEP_2_1":{
+        "replyMessage":[
+            "Te comparto la información del *Bachillerato😉*\n",
+            "*U.A.L. Plantel Toluca norte San Blas Otzacatipan*\n\n",
+            " Para volver al menú escriba: *Inicio* 😃😃\n"
+
+
+        ],
+        "media":"BACH-TOL-PRE.png",
+        "trigger":null
+    },
+    "STEP_2_22":{
+        "replyMessage":[
+            "Te comparto la información del *Bachillerato😉*\n",
+            "*U.A.L. Plantel Toluca norte San Blas Otzacatipan*\n\n",
+            " Para volver al menú escriba: *Inicio* 😃😃\n"
+
+
+        ],
+        "media":"BACH-TOL-EJE.png",
+        "trigger":null
+    },
+    "STEP_2_2":{
+        "replyMessage":[
+            "*¿Qué tipo de programa te gustaría estudiar?*\n\n",
+            "*A.1)* Escolarizado presencial\n",
+            "*B.1)* Ejecutivo Presencial\n",
+            "*C.1)* 100% online\n",
+            "*Escribe la opción de tu interés (ejemplo: A.1)*\n"
+
+        ],
+        "media":null,
+        "trigger":null
+    },
+    "STEP_2_3":{
+        "replyMessage":[
+            "MUY BIEN TE COMPARTO LAS LICENCIATURAS Y COSTOS QUE EN UNIVERSIDAD.U.A.L TENEMOS PARA TI 😉: \n\n",
+            "*Licenciaturas Escolarizadas presenciales*\n",
+            "*U.A.L. Plantel Toluca norte San Blas Otzacatipan*\n\n",
+
+            "• Licenciatura En Administración\n",
+            "• Licenciatura En Administración Deportiva y Recreativa\n",
+            "• Licenciatura En Contaduría Pública\n",
+            "• Licenciatura En Derecho\n",
+            "• Licenciatura En Gastronomía \n",
+            "• Ing. Industrial\n",
+            "• Licenciatura En Informática Administrativa\n",
+            "• Licenciatura En Mercadotecnia\n",
+            "• Licenciatura En Negocios Internacionales\n",
+            "• Licenciatura En Pedagogía \n",
+            "• Licenciatura En Psicología\n",
+            "• Licenciatura En Turismo \n\n",
+            " Para volver al menú escriba: *Inicio* 😃😃\n",
+            " Si requiere más información escriba *más información*\n"
+
+
+            
+        ],
+        "media":"Costos-Lic-TOL.pdf",
+        "trigger":null
+    },
+
+    "STEP_2_4":{
+        "replyMessage":[
+            "MUY BIEN TE COMPARTO LAS LICENCIATURAS Y COSTOS QUE EN UNIVERSIDAD.U.A.L TENEMOS PARA TI 😉: \n\n",
+            "*Licenciaturas Ejecutivas Presenciales*\n",
+            "*U.A.L. Plantel Toluca norte San Blas Otzacatipan*\n\n",
+
+            "• Licenciatura En Administración\n",
+            "• Licenciatura En Administración Deportiva y Recreativa\n",
+            "• Licenciatura En Contaduría Pública\n",
+            "• Licenciatura En Derecho\n",
+            "• Licenciatura En Gastronomía \n",
+            "• Ing. Industrial\n",
+            "• Licenciatura En Informática Administrativa\n",
+            "• Licenciatura En Mercadotecnia\n",
+            "• Licenciatura En Negocios Internacionales\n",
+            "• Licenciatura En Pedagogía \n",
+            "• Licenciatura En Psicología\n",
+            "• Licenciatura En Turismo \n\n",
+            " Para volver al menú escriba: *Inicio* 😃😃\n",
+            " Si requiere más información escriba *más información*\n"
+        ],
+        "media":"LETO.png",
+        "trigger":null
+    },
+    "STEP_3":{
+        "replyMessage":[
+            "MUY BIEN TE COMPARTO LAS LICENCIATURAS Y COSTOS QUE EN UNIVERSIDAD.U.A.L TENEMOS PARA TI 😉: \n\n",
+            "*Licenciaturas 100% ONLINE*\n",
+            "*U.A.L. Plantel Toluca norte San Blas Otzacatipan*\n\n",
+
+            "• Licenciatura En Filosofía Y Análisis Del Discurso\n",
+            "• Licenciatura En Relaciones Comerciales Internacionales\n",
+            "• Licenciatura En Servicio Público\n",
+            "• Licenciatura En Seguridad Y Protección Ciudadana\n",
+            "• Licenciatura En Derecho\n",
+            " Para volver al menú escriba: *Inicio* 😃😃\n",
+            " Si requiere más información escriba *más información*\n"
+            
+
+        ],
+        "media":null,
+        "trigger":null
+    },
+    
+    "STEP_4":{
+        "replyMessage":[
+            
+            "*¿Qué tipo de programa te gustaría estudiar?*\n\n",
+            "*A.1.1)* Escolarizado presencial\n",
+            "*B.1.1)* Ejecutivo Presencial\n",
+            "*C.1.1)* 100% online\n",
+            "*Escribe la opción de tu interés (ejemplo: A.1.1)*\n"
+
+        ],
+        "media":null,
+        "trigger":null
+    },
+    
+    "STEP_5_1":{
+        "replyMessage":[
+            "MUY BIEN TE COMPARTO LAS ESPECIALIDADES Y COSTOS QUE EN UNIVERSIDAD.U.A.L TENEMOS PARA TI 😉: \n\n",
+            "*Especialidades Escolarizadas presenciales*\n",
+            "*U.A.L. Plantel Toluca norte San Blas Otzacatipan*\n\n",
+
+            "• Especialidad En Administración\n",
+            "• Especialidad En Amparo\n",
+            "• Especialidad En Auditoria\n",
+            "• Especialidad En Derecho Civil\n",
+            "• Especialidad En Derecho Penal\n",
+            "• Especialidad En Empresas Y Negocios\n",
+            "• Especialidad En Gestión Educativa\n",
+
+            " Para volver al menú escriba: *Inicio* 😃😃\n",
+            " Si requiere más información escriba *más información*\n"
+        ],
+        "media":"EGTO.png",
+        "trigger":null
+    },
+    "STEP_5_2":{
+        "replyMessage":[
+            "MUY BIEN TE COMPARTO LAS ESPECIALIDADES Y COSTOS QUE EN UNIVERSIDAD.U.A.L TENEMOS PARA TI 😉: \n\n",
+            "*Especialidades Ejecutivas Presenciales\n",
+            "*U.A.L. Plantel Toluca norte San Blas Otzacatipan*\n\n",
+            "• Especialidad En Administración\n",
+            "• Especialidad En Amparo\n",
+            "• Especialidad En Auditoria\n",
+            "• Especialidad En Derecho Civil\n",
+            "• Especialidad En Derecho Penal\n",
+            "• Especialidad En Empresas Y Negocios\n",
+            "• Especialidad En Gestión Educativa\n",
+            " Para volver al menú escriba: *Inicio* 😃😃\n",
+            " Si requiere más  información escriba *más  información*\n"
+            
+        ],
+        "media":"EGTO.png",
+        "trigger":null
+    },
+    "STEP_5_3":{
+        "replyMessage":[
+            "*PENDIENTE ESPECIALIDADES PLANTEL 100% ONLINE*\n",
+            "*U.A.L. Plantel Toluca norte San Blas Otzacatipan*\n\n",
+            " Para volver al menú escriba: *Inicio* 😃😃\n",
+            " Si requiere más información escriba *más información*\n"
+        ],
+        "media":null,
+        "trigger":null
+    },
+    "STEP_5_4":{
+        "replyMessage":[
+            "*¿Qué tipo de programa te gustaría estudiar?*\n\n",
+            "*A.1.2)* Escolarizado presencial\n",
+            "*B.1.2)* Ejecutivo Presencial\n",
+            "*C.1.2)* 100% online\n",
+            "*Escribe la opción  de tu interés (ejemplo: A.1.2)*\n"
+        ],
+        "media":null,
+        "trigger":null
+    },
+    "STEP_5_5":{
+        "replyMessage":[
+            "MUY BIEN TE COMPARTO LAS MAESTRÍAS Y COSTOS QUE EN UNIVERSIDAD.U.A.L TENEMOS PARA TI 😉: \n\n",
+            "*Maestrías Escolarizadas presenciales*\n",
+            "*U.A.L. Plantel Toluca norte San Blas Otzacatipan*\n\n",
+
+            "• Maestría En Calidad Total Productividad Y Certificación \n",
+            "• Maestría En Derecho Aduanal \n",
+            "• Maestría En Derecho Penal \n",
+            "• Maestría En Derecho Procesal Constitucional \n",
+            "• Maestría En Producción De Medios Informativos \n",
+            "• Maestría En Educación \n",
+
+
+            " Para volver al menú escriba: *Inicio* 😃😃\n",
+            " Si requiere más  información escriba *más  información*\n"
+        ],
+        "media":"MGTO.png",
+        "trigger":null
+    },
+    "STEP_6":{
+        "replyMessage":[
+            "MUY BIEN TE COMPARTO LAS MAESTRÍAS Y COSTOS QUE EN UNIVERSIDAD.U.A.L TENEMOS PARA TI 😉: \n\n",
+            "*Maestrías Ejecutivas Presenciales*\n",
+            "*U.A.L. Plantel Toluca norte San Blas Otzacatipan*\n\n",
+            "• Maestría En Calidad Total Productividad Y Certificación \n",
+            "• Maestría En Derecho Aduanal \n",
+            "• Maestría En Derecho Penal \n",
+            "• Maestría En Derecho Procesal Constitucional \n",
+            "• Maestría En Producción De Medios Informativos \n",
+            "• Maestría En Educación \n",
+            " Para volver al menú escriba: *Inicio* 😃😃\n",
+            " Si requiere más  información escriba *más  información*\n"
+
+        ],
+        "media":"MGTO.png",
+        "trigger":null
+    },
+    "STEP_6_1":{
+        "replyMessage":[
+            "MUY BIEN TE COMPARTO LAS MAESTRÍAS Y COSTOS QUE EN UNIVERSIDAD.U.A.L TENEMOS PARA TI 😉: \n\n",
+            "*Maestrías 100% ONLINE*\n",
+            "*U.A.L. Plantel Toluca norte San Blas Otzacatipan*\n\n",
+
+            "• Maestría En Derecho \n",
+            "• Maestría En Matemáticas Del Bachillerato \n",
+            "• Maestría En Paz Y Seguridad \n",
+            "• Maestría En Seguridad Pública \n",
+
+
+            " Para volver al menú escriba: *Inicio* 😃😃\n",
+            " Si requiere más  información escriba *más  información*\n"
+        ],
+        "media":"MGTO.png",
+        "trigger":null
+    },
+    "STEP_6_2":{
+        "replyMessage":[
+            "*¿Qué tipo de programa te gustaría estudiar?*\n\n",
+            "*A.1.3)* Escolarizado presencial\n",
+            "*B.1.3)* Ejecutivo Presencial\n",
+            "*C.1.3)* 100% online\n",
+            "*Escribe la opción  de tu interés (ejemplo: A.1.3)*\n"
+
+              
+        ],
+        "media":null,
+        "trigger":null
+    },
+    "STEP_6_3":{
+        "replyMessage":[
+            "MUY BIEN TE COMPARTO LOS DOCTORADOS Y COSTOS QUE EN UNIVERSIDAD.U.A.L TENEMOS PARA TI 😉: \n\n",
+            "DOCTORADOS PRECENCIALES\n",
+            "*U.A.L. Plantel Toluca norte San Blas Otzacatipan*\n\n",
+            "•Doctorado En Educación\n",
+            "•Doctorado En Derecho Procesal\n\n",
+            " Para volver al menú escriba: *Inicio* 😃😃\n",
+            " sí requiere más  información escriba *más  información*\n"
+            
+        ],
+        "media":"DGTO.png",
+        "trigger":null
+    },
+    "STEP_6_4":{
+        "replyMessage":[
+            "MUY BIEN TE COMPARTO LOS DOCTORADOS Y COSTOS QUE EN UNIVERSIDAD.U.A.L TENEMOS PARA TI 😉: \n\n",
+            "Doctorados ejecutivos presenciales\n",
+            "*U.A.L. Plantel Toluca norte San Blas Otzacatipan*\n\n",
+            "•Doctorado En Educación\n",
+            "•Doctorado En Derecho Procesal\n\n",
+            " Para volver al menú escriba: *Inicio* 😃😃\n",
+            " sí requiere más  información escriba *más  información*\n"
+        ],
+        "media":"DGTO.png",
+        "trigger":null
+    },
+    "STEP_6_5":{
+        "replyMessage":[
+            "•PENDIENTE DOCTORADO PLANTEL 1 ONLINE\n",
+            "*1. U.A.L. Plantel Toluca norte San Blas Otzacatipan*\n",
+            " Para volver al menú escriba: *Inicio* 😃😃\n",
+            " sí requiere más  información escriba *más  información*\n"
+              
+        ],
+        "media":null,
+        "trigger":null
+    },
+
+    "STEP_2_11":{
+        "replyMessage":[
+            "Selecciona el grado de tu interés. \n\n",
+            "*A2)* Bachillerato\n",
+            "*B2)* Licenciaturas\n",
+            "*C2)* Especialidades\n",
+            "*D2)* Maestrías\n",
+            "*E2)* Doctorados\n",
+            "*Escribe la opción de tu interés (ejemplo: A2)*\n"
+
+
+        ],
+        "media":null,
+        "trigger":null
+    },
+    "STEP_22_21":{
+        "replyMessage":[
+            "*¿Qué tipo de programa te gustaría estudiar?*\n\n",
+            "*A.B2)* Escolarizado presencial\n",
+            "*B.B2)* Ejecutivo Presencial\n",
+            "*Escribe la opción de tu interés (ejemplo: A.B2)*\n"
+
+        ],
+        "media":null,
+        "trigger":null
+    },
+    "STEP_22_1":{
+        "replyMessage":[
+            "Te comparto la información del *Bachillerato😉*\n",
+            "*U.A.L. Plantel Toluca Col. Morelos*\n\n",
+            " Para volver al menú escriba: *Inicio* 😃😃\n"
+
+
+        ],
+        "media":"BACH-TOL-PRE.png",
+        "trigger":null
+    },
+    "STEP_22_22":{
+        "replyMessage":[
+            "Te comparto la información del *Bachillerato😉*\n",
+            "*U.A.L. Plantel Toluca Col. Morelos*\n\n",
+            " Para volver al menú escriba: *Inicio* 😃😃\n"
+
+
+        ],
+        "media":"BACH-TOL-EJE.png",
+        "trigger":null
+    },
+    "STEP_2_2_1":{
+        "replyMessage":[
+            "*¿Qué tipo de programa te gustaría estudiar?*\n\n",
+            "*A.2)* Escolarizado presencial\n",
+            "*B.2)* Ejecutivo Presencial\n",
+            "*C.2)* 100% online\n",
+            "*Escribe la opción de tu interés (ejemplo: A.2)*\n"
+
+        ],
+        "media":null,
+        "trigger":null
+    },
+    "STEP_2_3_1":{
+        "replyMessage":[
+            "MUY BIEN TE COMPARTO LAS LICENCIATURAS Y COSTOS QUE EN UNIVERSIDAD.U.A.L TENEMOS PARA TI 😉: \n\n",
+
+            "*Licenciaturas Escolarizadas presenciales*\n",
+            "*U.A.L. Plantel Toluca Col. Morelos*\n\n",
+
+
+            "• Licenciatura En Administración\n",
+            "• Licenciatura En Administración Deportiva y Recreativa\n",
+            "• Licenciatura En Contaduría Pública\n",
+            "• Licenciatura En Derecho\n",
+            "• Licenciatura En Gastronomía \n",
+            "• Ing. Industrial\n",
+            "• Licenciatura En Informática Administrativa\n",
+            "• Licenciatura En Mercadotecnia\n",
+            "• Licenciatura En Negocios Internacionales\n",
+            "• Licenciatura En Pedagogía \n",
+            "• Licenciatura En Psicología\n",
+            "• Licenciatura En Turismo \n\n",
+            " Para volver al menú escriba: *Inicio* 😃😃\n",
+            " Si requiere más información escriba *más  información*\n"
+
+            
+        ],
+        "media":"Costos-Lic-TOL.pdf",
+        "trigger":null
+    },
+    "STEP_2_4_1":{
+        "replyMessage":[
+            "MUY BIEN TE COMPARTO LAS LICENCIATURAS Y COSTOS QUE EN UNIVERSIDAD.U.A.L TENEMOS PARA TI 😉: \n\n",
+            "*Licenciaturas Ejecutivas Presenciales\n",
+            "*U.A.L. Plantel Toluca Col. Morelos*\n\n",
+
+            "• Licenciatura En Administración\n",
+            "• Licenciatura En Administración Deportiva y Recreativa\n",
+            "• Licenciatura En Contaduría Pública\n",
+            "• Licenciatura En Derecho\n",
+            "• Licenciatura En Gastronomía \n",
+            "• Ing. Industrial\n",
+            "• Licenciatura En Informática Administrativa\n",
+            "• Licenciatura En Mercadotecnia\n",
+            "• Licenciatura En Negocios Internacionales\n",
+            "• Licenciatura En Pedagogía \n",
+            "• Licenciatura En Psicología\n",
+            "• Licenciatura En Turismo \n\n",
+            " Para volver al menú escriba: *Inicio* 😃😃\n",
+            " Si requiere más información escriba *más  información*\n"
+        ],
+        "media":"LETO.png",
+        "trigger":null
+    },
+    "STEP_3_1":{
+        "replyMessage":[     
+            "MUY BIEN TE COMPARTO LAS LICENCIATURAS Y COSTOS QUE EN UNIVERSIDAD.U.A.L TENEMOS PARA TI 😉: \n\n",
+
+            "*Licenciaturas 100% ONLINE*\n",
+            "*U.A.L. Plantel Toluca Col. Morelos*\n\n",
+
+            "• Licenciatura En Filosofía Y Análisis Del Discurso\n",
+            "• Licenciatura En Relaciones Comerciales Internacionales\n",
+            "• Licenciatura En Servicio Público\n",
+            "• Licenciatura En Seguridad Y Protección Ciudadana\n",
+            "• Licenciatura En Derecho\n",
+            " Para volver al menú escriba: *Inicio* 😃😃\n",
+            " Si requiere más información escriba *más  información*\n"
+            
+
+        ],
+        "media":null,
+        "trigger":null
+    },
+    
+    "STEP_4_11":{
+        "replyMessage":[
+            
+            "*¿Qué tipo de programa te gustaría estudiar?*\n\n",
+            "*A.2.1)* Escolarizado presencial\n",
+            "*B.2.1)* Ejecutivo Presencial\n",
+            "*C.2.1)* 100% online\n",
+            "*Escribe la opción de tu interés (ejemplo: A.2.1)*\n"
+
+
+        ],
+        "media":null,
+        "trigger":null
+    },
+    
+    "STEP_5_1_1":{
+        "replyMessage":[
+            "MUY BIEN TE COMPARTO LAS ESPECIALIDADES Y COSTOS QUE EN UNIVERSIDAD.U.A.L TENEMOS PARA TI 😉: \n\n",
+            "*Especialidades Escolarizadas presenciales*\n",
+            "*U.A.L. Plantel Toluca Col. Morelos*\n\n",
+
+
+            "• Especialidad En Administración\n",
+            "• Especialidad En Amparo\n",
+            "• Especialidad En Auditoria\n",
+            "• Especialidad En Derecho Civil\n",
+            "• Especialidad En Derecho Penal\n",
+            "• Especialidad En Empresas Y Negocios\n",
+            "• Especialidad En Gestión Educativa\n",
+
+            " Para volver al menú escriba: *Inicio* 😃😃\n",
+            " Si requiere más información escriba *más información*\n"
+        ],
+        "media":"EGTO.png",
+        "trigger":null
+    },
+    "STEP_5_2_1":{
+        "replyMessage":[
+            "MUY BIEN TE COMPARTO LAS ESPECIALIDADES Y COSTOS QUE EN UNIVERSIDAD.U.A.L TENEMOS PARA TI 😉: \n\n",
+            "*Especialidades Ejecutivas Presenciales\n",
+            "*U.A.L. Plantel Toluca Col. Morelos*\n\n",
+
+            "• Especialidad En Administración\n",
+            "• Especialidad En Amparo\n",
+            "• Especialidad En Auditoria\n",
+            "• Especialidad En Derecho Civil\n",
+            "• Especialidad En Derecho Penal\n",
+            "• Especialidad En Empresas Y Negocios\n",
+            "• Especialidad En Gestión Educativa\n",
+
+            " Para volver al menú escriba: *Inicio* 😃😃\n",
+            " Si requiere más información escriba *más información*\n"
+            
+            
+        ],
+        "media":"EGTO.png",
+        "trigger":null
+    },
+    "STEP_5_3_1":{
+        "replyMessage":[
+            "PENDIENTE ESPECIALDADES PLANTEL 2 ONLINE",
+            "*U.A.L. Plantel Toluca Col. Morelos*\n\n",
+            " Para volver al menú escriba: *Inicio* 😃😃\n",
+            " Si requiere más información escriba *más información*\n"
+
+        ],
+        "media":null,
+        "trigger":null
+    },
+    "STEP_5_4_1":{
+        "replyMessage":[
+            "*¿Qué tipo de programa te gustaría estudiar?*\n\n",
+            "*A.2.2)* Escolarizado presencial\n",
+            "*B.2.2)* Ejecutivo Presencial\n",
+            "*C.2.2)* 100% online\n",
+            "*Escribe la opción de tu interés (ejemplo: A.2.2)*\n"
+
+
+        ],
+        "media":null,
+        "trigger":null
+    },
+    "STEP_5_5_1":{
+        "replyMessage":[
+            "MUY BIEN TE COMPARTO LAS MAESTRÍAS Y COSTOS QUE EN UNIVERSIDAD.U.A.L TENEMOS PARA TI 😉: \n\n",
+            "*Maestrías Escolarizadas presenciales*\n",
+            "*U.A.L. Plantel Toluca Col. Morelos*\n\n",
+
+
+            "• Maestría En Calidad Total Productividad Y Certificación \n",
+            "• Maestría En Derecho Aduanal \n",
+            "• Maestría En Derecho Penal \n",
+            "• Maestría En Derecho Procesal Constitucional \n",
+            "• Maestría En Producción De Medios Informativos \n",
+            "• Maestría En Educación \n", 
+            " Para volver al menú escriba: *Inicio* 😃😃\n",
+            " Si requiere más información escriba *más información*\n"
+        ],
+        "media":"MGTO.png",
+        "trigger":null
+    },
+    "STEP_6_11":{
+        "replyMessage":[
+            "MUY BIEN TE COMPARTO LAS MAESTRÍAS Y COSTOS QUE EN UNIVERSIDAD.U.A.L TENEMOS PARA TI 😉: \n\n",
+            "*Maestrías ejecutivas presenciales*\n",
+            "*U.A.L. Plantel Toluca Col. Morelos*\n\n",
+
+            "• Maestría En Calidad Total Productividad Y Certificación \n",
+            "• Maestría En Derecho Aduanal \n",
+            "• Maestría En Derecho Penal \n",
+            "• Maestría En Derecho Procesal Constitucional \n",
+            "• Maestría En Producción De Medios Informativos \n",
+            "• Maestría En Educación \n",
+            " Para volver al menú escriba: *Inicio* 😃😃\n",
+            " Si requiere más información escriba *más información*\n"
+        ],
+        "media":"MGTO.png",
+        "trigger":null
+    },
+    "STEP_6_1_1":{
+        "replyMessage":[
+            "MUY BIEN TE COMPARTO LAS MAESTRÍAS Y COSTOS QUE EN UNIVERSIDAD.U.A.L TENEMOS PARA TI 😉: \n\n",
+            "*Maestrías 100% ONLINE*\n\n",
+            "*U.A.L. Plantel Toluca Col. Morelos*\n\n",
+
+            "• Maestría En Derecho \n",
+            "• Maestría En Matemáticas Del Bachillerato \n",
+            "• Maestría En Paz Y Seguridad \n",
+            "• Maestría En Seguridad Pública \n",
+
+            " Para volver al menú escriba: *Inicio* 😃😃\n",
+            " Si requiere más información escriba *más información*\n"
+        ],
+        "media":"LETO.png",
+        "trigger":null
+    },
+    "STEP_6_2_1":{
+        "replyMessage":[
+            "¿Qué tipo de programa te gustaría estudiar? \n",
+            "*A.2.3)* Escolarizado presencial\n\n",
+            "*B.2.3)* Ejecutivo Presencial\n\n",
+            "*C.2.3)* 100% online\n\n",
+            "*Escribe la opción de tu interés (ejemplo: A.2.3)*\n"
+
+              
+        ],
+        "media":null,
+        "trigger":null
+    },
+    "STEP_6_3_1":{
+        "replyMessage":[
+            "MUY BIEN TE COMPARTO LOS DOCTORADOS Y COSTOS QUE EN UNIVERSIDAD.U.A.L TENEMOS PARA TI 😉: \n\n",
+            "DOCTORADOS PRECENCIALES\n",
+            "*U.A.L. Plantel Toluca Col. Morelos*\n\n",
+            "•Doctorado En Educación\n",
+            "•Doctorado En Derecho Procesal\n\n",
+            " Para volver al menú escriba: *Inicio* 😃😃\n",
+            " Si requiere más información escriba *más información*\n"
+            
+        ],
+        "media":"DGTO.png",
+        "trigger":null
+    },
+    "STEP_6_4_1":{
+        "replyMessage":[
+            "MUY BIEN TE COMPARTO LOS DOCTORADOS Y COSTOS QUE EN UNIVERSIDAD.U.A.L TENEMOS PARA TI 😉: \n\n",
+            "Doctorados ejecutivos presenciales\n",
+            "*U.A.L. Plantel Toluca Col. Morelos*\n\n",
+            "•Doctorado En Educación\n",
+            "•Doctorado En Derecho Procesal\n\n",
+            " Para volver al menú escriba: *Inicio* 😃😃\n",
+            " Si requiere más información escriba *más información*\n"
+        ],
+        "media":"DGTO.png",
+        "trigger":null
+    },
+    "STEP_6_5_1":{
+        "replyMessage":[
+            "•PENDIENTE DOCTORADO PLANTEL 2 ONLINE\n",
+            "*U.A.L. Plantel Toluca Col. Morelos*\n\n",
+            " Para volver al menú escriba: *Inicio* 😃😃\n",
+            " Si requiere más información escriba *más información*\n"
+              
+        ],
+        "media":null,
+        "trigger":null
+    },
+
+
+
+
+    "STEP_2_13":{
+        "replyMessage":[
+            "Selecciona el grado de tu interés.\n\n",
+            "*A3)* Bachillerato\n",
+            "*B3)* Licenciaturas\n",
+            "*C3)* Especialidades\n",
+            "*D3)* Maestrías\n",
+            "*E3)* Doctorados\n",
+            "*Escribe la opción de tu interés (ejemplo: A3)*\n"
+        ],
+        "media":null,
+        "trigger":null
+    },
+    "STEP_23_21":{
+        "replyMessage":[
+            "*¿Qué tipo de programa te gustaría estudiar?*\n\n",
+            "*A.B3)* Escolarizado presencial\n",
+            "*B.B3)* Ejecutivo Presencial\n",
+            "*Escribe la opción de tu interés (ejemplo: A.B3)*\n"
+
+        ],
+        "media":null,
+        "trigger":null
+    },
+    "STEP_23_1":{
+        "replyMessage":[
+            "Te comparto la información del *Bachillerato😉*\n",
+            "*U.A.L. Centro de enlace Toluca Centro *\n\n",
+            " Para volver al menú escriba: *Inicio* 😃😃\n"
+
+
+        ],
+        "media":"BACH-TOL-PRE.png",
+        "trigger":null
+    },
+    "STEP_23_22":{
+        "replyMessage":[
+            "Te comparto la información del *Bachillerato😉*\n",
+            "*U.A.L. Centro de enlace Toluca Centro *\n\n",
+            " Para volver al menú escriba: *Inicio* 😃😃\n"
+
+
+        ],
+        "media":"BACH-TOL-EJE.png",
+        "trigger":null
+    },
+    "STEP_2_2_2":{
+        "replyMessage":[
+            "*¿Qué tipo de programa te gustaría estudiar?*\n\n",
+            "*A.3)* Escolarizado presencial\n",
+            "*B.3)* Ejecutivo Presencial\n",
+            "*C.3)* 100% online\n"
+        ],
+        "media":null,
+        "trigger":null
+    },
+    "STEP_2_3_2":{
+        "replyMessage":[
+            "MUY BIEN TE COMPARTO LAS LICENCIATURAS Y COSTOS QUE EN UNIVERSIDAD.U.A.L TENEMOS PARA TI 😉: \n\n",
+
+            "*Licenciaturas Escolarizadas presenciales*\n",
+            "*U.A.L. Centro de enlace Toluca Centro *\n\n",
+
+            "• Licenciatura En Administración\n",
+            "• Licenciatura En Administración Deportiva y Recreativa\n",
+            "• Licenciatura En Contaduría Pública\n",
+            "• Licenciatura En Derecho\n",
+            "• Licenciatura En Gastronomía \n",
+            "• Licenciatura En Ing. Industrial\n",
+            "• Licenciatura En Informática Administrativa\n",
+            "• Licenciatura En Mercadotecnia\n",
+            "• Licenciatura En Negocios Internacionales\n",
+            "• Licenciatura En Pedagogía \n",
+            "• Licenciatura En Psicología\n",
+            "• Licenciatura En Turismo \n\n",
+
+            " Para volver al menú escriba: *Inicio* 😃😃\n",
+            " Si requiere más información escriba *más información*\n"
+
+            
+        ],
+        "media":"Costos-Lic-TOL.pdf",
+        "trigger":null
+    },
+    "STEP_2_4_2":{
+        "replyMessage":[
+            "MUY BIEN TE COMPARTO LAS LICENCIATURAS Y COSTOS QUE EN UNIVERSIDAD.U.A.L TENEMOS PARA TI 😉: \n\n",
+            "*Licenciaturas Ejecutivas Presenciales\n",
+            "*U.A.L. Centro de enlace Toluca Centro *\n\n",
+
+            "• Licenciatura En Administración\n",
+            "• Licenciatura En Administración Deportiva y Recreativa\n",
+            "• Licenciatura En Contaduría Pública\n",
+            "• Licenciatura En Derecho\n",
+            "• Licenciatura En Gastronomía \n",
+            "• Licenciatura En Ing. Industrial\n",
+            "• Licenciatura En Informática Administrativa\n",
+            "• Licenciatura En Mercadotecnia\n",
+            "• Licenciatura En Negocios Internacionales\n",
+            "• Licenciatura En Pedagogía \n",
+            "• Licenciatura En Psicología\n",
+            "• Licenciatura En Turismo \n\n",
+            " para volver al menú escriba: *Inicio* 😃😃\n",
+            " Si requiere más información escriba *más información*\n"
+        ],
+        "media":"LETO.png",
+        "trigger":null
+    },
+    "STEP_3_2":{
+        "replyMessage":[
+            "MUY BIEN TE COMPARTO LAS LICENCIATURAS Y COSTOS QUE EN UNIVERSIDAD.U.A.L TENEMOS PARA TI 😉: \n\n",
+            "*Licenciaturas 100% ONLINE*\n",
+            "*U.A.L. Centro de enlace Toluca Centro *\n\n",
+
+            "• Licenciatura En Filosofía Y Análisis Del Discurso\n",
+            "• Licenciatura En Relaciones Comerciales Internacionales\n",
+            "• Licenciatura En Servicio Público\n",
+            "• Licenciatura En Seguridad Y Protección Ciudadana\n",
+            "• Licenciatura En Derecho\n",
+            " para volver al menú escriba: *Inicio* 😃😃\n",
+            " Si requiere más información escriba *más información*\n"
+            
+
+        ],
+        "media":null,
+        "trigger":null
+    },
+    
+    "STEP_4_12":{
+        "replyMessage":[
+            
+            "*¿Qué tipo de programa te gustaría estudiar?*\n\n",
+            "*A.3.1)* Escolarizado presencial\n",
+            "*B.3.1)* Ejecutivo Presencial\n",
+            "*C.3.1)* 100% online\n",
+            "*Escribe la opción de tu interés (ejemplo: A.3.1)*\n"
+
+        ],
+        "media":null,
+        "trigger":null
+    },
+    
+    "STEP_5_1_2":{
+        "replyMessage":[
+            "MUY BIEN TE COMPARTO LAS ESPECIALIDADES Y COSTOS QUE EN UNIVERSIDAD.U.A.L TENEMOS PARA TI 😉: \n\n",
+            "*Especialidades Escolarizadas presenciales*\n",
+            "*U.A.L. Centro de enlace Toluca Centro *\n\n",
+
+
+            "• Especialidad En Administración\n",
+            "• Especialidad En Amparo\n",
+            "• Especialidad En Auditoria\n",
+            "• Especialidad En Derecho Civil\n",
+            "• Especialidad En Derecho Penal\n",
+            "• Especialidad En Empresas Y Negocios\n",
+            "• Especialidad En Gestión Educativa\n",
+
+            " para volver al menú escriba: *Inicio* 😃😃\n",
+            " Si requiere más información escriba *más información*\n"
+        ],
+        "media":"EGTO.png",
+        "trigger":null
+    },
+    "STEP_5_2_2":{
+        "replyMessage":[
+            "MUY BIEN TE COMPARTO LAS ESPECIALIDADES Y COSTOS QUE EN UNIVERSIDAD.U.A.L TENEMOS PARA TI 😉: \n\n",
+            "*Especialidades Ejecutivas Presenciales\n",
+            "*U.A.L. Centro de enlace Toluca Centro *\n\n",
+            
+           "• Especialidad En Administración\n",
+            "• Especialidad En Amparo\n",
+            "• Especialidad En Auditoria\n",
+            "• Especialidad En Derecho Civil\n",
+            "• Especialidad En Derecho Penal\n",
+            "• Especialidad En Empresas Y Negocios\n",
+            "• Especialidad En Gestión Educativa\n",
+            
+            " para volver al menú escriba: *Inicio* 😃😃\n",
+            " Si requiere más información escriba *más información*\n"
+            
+        ],
+        "media":"EGTO.png",
+        "trigger":null
+    },
+    "STEP_5_3_2":{
+        "replyMessage":[
+            "PENDIENTE ESPECIALDADES PLANTEL 3 ONLINE",
+            "*U.A.L. Centro de enlace Toluca Centro *\n\n",
+            " para volver al menú escriba: *Inicio* 😃😃\n",
+            " Si requiere más información escriba *más información*\n"
+
+        ],
+        "media":null,
+        "trigger":null
+    },
+    "STEP_5_4_2":{
+        "replyMessage":[
+            "*¿Qué tipo de programa te gustaría estudiar?*\n\n",
+            "*A.3.2)* Escolarizado presencial\n",
+            "*B.3.2)* Ejecutivo Presencial\n",
+            "*C.3.2)* 100% online\n",
+            "*Escribe la opción de tu interés (ejemplo: A.3.2)*\n"
+
+        ],
+        "media":null,
+        "trigger":null
+    },
+    "STEP_5_5_2":{
+        "replyMessage":[
+            "MUY BIEN TE COMPARTO LAS MAESTRÍAS Y COSTOS QUE EN UNIVERSIDAD.U.A.L TENEMOS PARA TI 😉: \n\n",
+            "*MaestríasEscolarizadas presenciales*\n",
+            "*U.A.L. Centro de enlace Toluca Centro *\n\n",
+
+            "• Maestría En Calidad Total Productividad Y Certificación \n",
+            "• Maestría En Derecho Aduanal \n",
+            "• Maestría En Derecho Penal \n",
+            "• Maestría En Derecho Procesal Constitucional \n",
+            "• Maestría En Producción De Medios Informativos \n",
+            "• Maestría En Educación \n",
+
+            " para volver al menú escriba: *Inicio* 😃😃\n",
+            " Si requiere más información escriba *más información*\n"
+        ],
+        "media":"MGTO.png",
+        "trigger":null
+    },
+    "STEP_6_12":{
+        "replyMessage":[
+            "MUY BIEN TE COMPARTO LAS MAESTRÍAS Y COSTOS QUE EN UNIVERSIDAD.U.A.L TENEMOS PARA TI 😉: \n\n",
+            "*Maestrías Ejecutivas Presenciales*\n",
+            "*U.A.L. Centro de enlace Toluca Centro *\n\n",
+            "• Maestría En Calidad Total Productividad Y Certificación \n",
+            "• Maestría En Derecho Aduanal \n",
+            "• Maestría En Derecho Penal \n",
+            "• Maestría En Derecho Procesal Constitucional \n",
+            "• Maestría En Producción De Medios Informativos \n",
+            "• Maestría En Educación \n",
+            " para volver al menú escriba: *Inicio* 😃😃\n",
+            " Si requiere más información escriba *más información*\n"
+
+        ],
+        "media":"MGTO.png",
+        "trigger":null
+    },
+    "STEP_6_1_2":{
+        "replyMessage":[
+            "MUY BIEN TE COMPARTO LAS MAESTRÍAS Y COSTOS QUE EN UNIVERSIDAD.U.A.L TENEMOS PARA TI 😉: \n\n",
+            "*Maestrías 100% ONLINE*\n",
+            "*U.A.L. Centro de enlace Toluca Centro *\n\n",
+
+            "• Maestría En Derecho \n",
+            "• Maestría En Matemáticas Del Bachillerato \n",
+            "• Maestría En Paz Y Seguridad \n",
+            "• Maestría En Seguridad Pública \n",
+
+            " para volver al menú escriba: *Inicio* 😃😃\n",
+            " Si requiere más información escriba *más información*\n"
+        ],
+        "media":"MGTO.png",
+        "trigger":null
+    },
+    "STEP_6_2_2":{
+        "replyMessage":[
+            "*¿Qué tipo de programa te gustaría estudiar?*\n\n",
+            "*A.3.3)* Escolarizado presencial\n",
+            "*B.3.3)* Ejecutivo Presencial\n",
+            "*C.3.3)* 100% online\n",
+            "*Escribe la opción de tu interés (ejemplo: A.3.3)*\n"
+
+              
+        ],
+        "media":null,
+        "trigger":null
+    },
+    "STEP_6_3_2":{
+        "replyMessage":[
+            "MUY BIEN TE COMPARTO LOS DOCTORADOS Y COSTOS QUE EN UNIVERSIDAD.U.A.L TENEMOS PARA TI 😉: \n\n",
+            "DOCTORADOS PRECENCIALES\n",
+            "*U.A.L. Centro de enlace Toluca Centro *\n\n",
+            "•Doctorado En Educación\n",
+            "•Doctorado En Derecho Procesal\n\n",
+            " para volver al menú escriba: *Inicio* 😃😃\n",
+            " Si requiere más información escriba *más información*\n"
+        ],
+        "media":"DGTO.png",
+        "trigger":null
+    },
+    "STEP_6_4_2":{
+        "replyMessage":[
+            "MUY BIEN TE COMPARTO LOS DOCTORADOS Y COSTOS QUE EN UNIVERSIDAD.U.A.L TENEMOS PARA TI 😉: \n\n",
+            "Doctorados ejecutivos presenciales\n",
+            "*U.A.L. Centro de enlace Toluca Centro *\n\n",
+            "•Doctorado En Educación\n",
+            "•Doctorado En Derecho Procesal\n\n",
+            " para volver al menú escriba: *Inicio* 😃😃\n",
+            " Si requiere más información escriba *más información*\n"
+        ],
+        "media":"DGTO.png",
+        "trigger":null
+    },
+    "STEP_6_5_2":{
+        "replyMessage":[
+            "PENDIENTE DOCTORADO PLANTEL 3 ONLINE\n",
+            "*U.A.L. Centro de enlace Toluca Centro *\n\n",
+            " para volver al menú escriba: *Inicio* 😃😃\n",
+            " Si requiere más información escriba *más información*\n"
+              
+        ],
+        "media":null,
+        "trigger":null
+    },
+
+
+
+
+    "STEP_2_14":{
+        "replyMessage":[
+            "Selecciona el grado de tu interés.\n\n",
+            "*A4)* Bachillerato \n",
+            "*B4)* Licenciaturas\n",
+            "*C4)* Especialidades\n",
+            "*D4)* Maestrías\n",
+            "*E4)* Doctorados\n",
+            "*Escribe la opción de tu interés (ejemplo: A4)*\n"
+
+        ],
+        "media":null,
+        "trigger":null
+    },
+    "STEP_24_21":{
+        "replyMessage":[
+            "*¿Qué tipo de programa te gustaría estudiar?*\n\n",
+            "*A.B4)* Escolarizado presencial\n",
+            "*B.B4)* Ejecutivo Presencial\n",
+            "*Escribe la opción de tu interés (ejemplo: A.B4)*\n"
+
+        ],
+        "media":null,
+        "trigger":null
+    },
+    "STEP_24_1":{
+        "replyMessage":[
+            "Te comparto la información  del *Bachillerato😉*\n",
+            "*U.A.L.Centro de enlace Villa Victoria*\n\n",
+            " para volver al menú escriba: *Inicio* 😃😃\n"
+
+
+        ],
+        "media":"BACH-VIL-PRE.png",
+        "trigger":null
+    },
+    "STEP_24_22":{
+        "replyMessage":[
+            "Te comparto la información  del *Bachillerato😉*\n",
+            "*U.A.L.Centro de enlace Villa Victoria*\n\n",
+            " para volver al menú escriba: *Inicio* 😃😃\n"
+
+
+        ],
+        "media":"BACH-VILL-EJE.png",
+        "trigger":null
+    },
+    "STEP_2_2_3":{
+        "replyMessage":[
+            "*¿Qué tipo de programa te gustaría estudiar?*\n\n",
+            "*A.4)* Escolarizado presencial\n",
+            "*B.4)* Ejecutivo Presencial\n",
+            "*C.4)* 100% online\n"
+        ],
+        "media":null,
+        "trigger":null
+    },
+    "STEP_2_3_3":{
+        "replyMessage":[
+            "MUY BIEN TE COMPARTO LAS LICENCIATURAS Y COSTOS QUE EN UNIVERSIDAD.U.A.L TENEMOS PARA TI 😉: \n\n",
+            "*Licenciaturas Escolarizadas presenciales*\n",
+            "*U.A.L.Centro de enlace Villa Victoria*\n\n",
+
+            "• Licenciatura En Administración\n",
+            "• Licenciatura En Administración Deportiva y Recreativa\n",
+            "• Licenciatura En Contaduría Pública\n",
+            "• Licenciatura En Derecho\n",
+            "• Licenciatura En Gastronomía \n",
+            "• Ing. Industrial\n",
+            "• Licenciatura En Informática Administrativa\n",
+            "• Licenciatura En Mercadotecnia\n",
+            "• Licenciatura En Negocios Internacionales\n",
+            "• Licenciatura En Pedagogía \n",
+            "• Licenciatura En Psicología\n",
+            "• Licenciatura En Turismo \n",
+            " para volver al menú escriba: *Inicio* 😃😃\n",
+            " Si requiere más información escriba *más información*\n"
+
+             
+        ],
+        "media":"LPV.png",
+        "trigger":null
+    },
+    "STEP_2_4_3":{
+        "replyMessage":[
+            "MUY BIEN TE COMPARTO LAS LICENCIATURAS Y COSTOS QUE EN UNIVERSIDAD.U.A.L TENEMOS PARA TI 😉: \n\n",
+            "*Licenciaturas Ejecutivas Presenciales\n",
+            "*• U.A.L.Centro de enlace Villa Victoria*\n\n",
+            "• Licenciatura En Administración\n",
+            "• Licenciatura En Administración Deportiva y Recreativa\n",
+            "• Licenciatura En Contaduría Pública\n",
+            "• Licenciatura En Derecho\n",
+            "• Licenciatura En Gastronomía \n",
+            "• Ing. Industrial\n",
+            "• Licenciatura En Informática Administrativa\n",
+            "• Licenciatura En Mercadotecnia\n",
+            "• Licenciatura En Negocios Internacionales\n",
+            "• Licenciatura En Pedagogía \n",
+            "• Licenciatura En Psicología\n",
+            "• Licenciatura En Turismo \n",
+            " para volver al menú escriba: *Inicio* 😃😃\n",
+            " Si requiere más información escriba *más información*\n"
+
+            
+        ],
+        "media":"LEV.png",
+        "trigger":null
+    },
+    "STEP_3_3":{
+        "replyMessage":[
+            "MUY BIEN TE COMPARTO LAS LICENCIATURAS Y COSTOS QUE EN UNIVERSIDAD.U.A.L TENEMOS PARA TI 😉: \n\n",
+            "*Licenciaturas 100% ONLINE*\n",
+            "*U.A.L.Centro de enlace Villa Victoria*\n\n",
+
+            "• Licenciatura En Filosofía Y Análisis Del Discurso\n",
+            "• Licenciatura En Relaciones Comerciales Internacionales\n",
+            "• Licenciatura En Servicio Público\n",
+            "• Licenciatura En Seguridad Y Protección Ciudadana\n",
+            "• Licenciatura En Derecho\n",
+            " para volver al menú escriba: *Inicio* 😃😃\n",
+            " Si requiere más información escriba *más información*\n"
+            
+
+        ],
+        "media":null,
+        "trigger":null
+    },
+    
+    "STEP_4_13":{
+        "replyMessage":[
+            
+            "*¿Qué tipo de programa te gustaría estudiar?*\n\n",
+            "*A.4.1)* Escolarizado presencial\n",
+            "*B.4.1)* Ejecutivo Presencial\n",
+            "*C.4.1)* 100% online\n",
+            "*Escribe la opción de tu interés (ejemplo: A.4.1)*\n"
+
+        ],
+        "media":null,
+        "trigger":null
+    },
+    
+    "STEP_5_1_3":{
+        "replyMessage":[
+            "MUY BIEN TE COMPARTO LAS ESPECIALIDADES Y COSTOS QUE EN UNIVERSIDAD.U.A.L TENEMOS PARA TI 😉: \n\n",
+            "*Especialidades Escolarizadas presenciales*\n",
+            "*U.A.L.Centro de enlace Villa Victoria*\n\n",
+
+
+            "• Especialidad En Administración\n",
+            "• Especialidad En Amparo\n",
+            "• Especialidad En Auditoria\n",
+            "• Especialidad En Derecho Civil\n",
+            "• Especialidad En Derecho Penal\n",
+            "• Especialidad En Empresas Y Negocios\n",
+            "• Especialidad En Gestión Educativa\n",
+
+            " Para volver al menú escriba: *Inicio* 😃😃\n",
+            " Si requiere más información escriba *más información*\n"
+        ],
+        "media":"EGV.png",
+        "trigger":null
+    },
+    "STEP_5_2_3":{
+        "replyMessage":[
+            "MUY BIEN TE COMPARTO LAS ESPECIALIDADES Y COSTOS QUE EN UNIVERSIDAD.U.A.L TENEMOS PARA TI 😉: \n\n",
+            "*Especialidades Ejecutivas Presenciales\n",
+            "*U.A.L.Centro de enlace Villa Victoria*\n\n",
+            "• Especialidad En Administración\n",
+            "• Especialidad En Amparo\n",
+            "• Especialidad En Auditoria\n",
+            "• Especialidad En Derecho Civil\n",
+            "• Especialidad En Derecho Penal\n",
+            "• Especialidad En Empresas Y Negocios\n",
+            "• Especialidad En Gestión Educativa\n",
+            " para volver al menú escriba: *Inicio* 😃😃\n",
+            " Si requiere más información escriba *más información*\n"
+            
+        ],
+        "media":"EGV.png",
+        "trigger":null
+    },
+    "STEP_5_3_3":{
+        "replyMessage":[
+            "PENDIENTE ESPECIALDADES ONLINE PLANTEL 4",
+            "*U.A.L.Centro de enlace Villa Victoria*\n\n",
+            " para volver al menú escriba: *Inicio* 😃😃\n",
+            " Si requiere más información escriba *más información*\n"
+        ],
+        "media":null,
+        "trigger":null
+    },
+    "STEP_5_4_3":{
+        "replyMessage":[
+            "*¿Qué tipo de programa te gustaría estudiar?*\n\n",
+            "*A.4.2)* Escolarizado presencial\n",
+            "*B.4.2)* Ejecutivo Presencial\n",
+            "*C.4.2)* 100% online\n",
+            "*Escribe la opción de tu interés (ejemplo: A.4.2)*\n"
+
+        ],
+        "media":null,
+        "trigger":null
+    },
+    "STEP_5_5_3":{
+        "replyMessage":[
+            "MUY BIEN TE COMPARTO LAS MAESTRÍAS Y COSTOS QUE EN UNIVERSIDAD.U.A.L TENEMOS PARA TI 😉: \n\n",
+            "*• Maestrías Escolarizadas presenciales*\n",
+            "*• U.A.L.Centro de enlace Villa Victoria*\n\n",
+            "• Maestría En Calidad Total Productividad Y Certificación \n",
+            "• Maestría En Derecho Aduanal \n",
+            "• Maestría En Derecho Penal \n",
+            "• Maestría En Derecho Procesal Constitucional \n",
+            "• Maestría En Producción De Medios Informativos \n",
+            "• Maestría En Educación \n",
+
+            " para volver al menú escriba: *Inicio* 😃😃\n",
+            " Si requiere más información escriba *más información*\n"
+        ],
+        "media":"MGV.png",
+        "trigger":null
+    },
+    "STEP_6_13":{
+        "replyMessage":[
+            "MUY BIEN TE COMPARTO LAS MAESTRÍAS Y COSTOS QUE EN UNIVERSIDAD.U.A.L TENEMOS PARA TI 😉: \n\n",
+            "*Maestrías Ejecutivas Presenciales*\n",
+            "*• U.A.L.Centro de enlace Villa Victoria*\n\n",
+            "• Maestría En Calidad Total Productividad Y Certificación \n",
+            "• Maestría En Derecho Aduanal \n",
+            "• Maestría En Derecho Penal \n",
+            "• Maestría En Derecho Procesal Constitucional \n",
+            "• Maestría En Producción De Medios Informativos \n",
+            "• Maestría En Educación \n",
+            " para volver al menú escriba: *Inicio* 😃😃\n",
+            " Si requiere más información escriba *más información*\n"
+
+        ],
+        "media":"MGV.png",
+        "trigger":null
+    },
+    "STEP_6_1_3":{
+        "replyMessage":[
+            "MUY BIEN TE COMPARTO LAS MAESTRÍAS Y COSTOS QUE EN UNIVERSIDAD.U.A.L TENEMOS PARA TI 😉: \n\n",
+            "*• Maestrías 100% ONLINE*\n",
+            "*• U.A.L.Centro de enlace Villa Victoria*\n\n",
+
+            "• Maestría En Derecho \n",
+            "• Maestría En Matemáticas Del Bachillerato \n",
+            "• Maestría En Paz Y Seguridad \n",
+            "• Maestría En Seguridad Pública \n",
+
+            " para volver al menú escriba: *Inicio* 😃😃\n",
+            " Si requiere más información escriba *más información*\n"
+        ],
+        "media":"MGV.png",
+        "trigger":null
+    },
+    "STEP_6_2_3":{
+        "replyMessage":[
+            "*¿Qué tipo de programa te gustaría estudiar?*\n\n",
+            "*A.4.3)* Escolarizado presencial\n",
+            "*B.4.3)* Ejecutivo Presencial\n",
+            "*C.4.3)* 100% online\n",
+            "*Escribe la opción de tu interés (ejemplo: A.4.3)*\n"
+
+
+              
+        ],
+        "media":null,
+        "trigger":null
+    },
+    "STEP_6_3_3":{
+        "replyMessage":[
+            "MUY BIEN TE COMPARTO LOS DOCTORADOS Y COSTOS QUE EN UNIVERSIDAD.U.A.L TENEMOS PARA TI 😉: \n\n",
+            "*Doctorados presenciales*\n",
+            "*U.A.L.Centro de enlace Villa Victoria*\n\n",
+
+            "• Doctorado En Educación\n",
+            "• Doctorado En Derecho Procesal\n\n",
+            " para volver al menú escriba: *Inicio* 😃😃\n",
+            " Si requiere más información escriba *más información*\n"
+
+            
+        ],
+        "media":"DGV.png",
+        "trigger":null
+    },
+    "STEP_6_4_3":{
+        "replyMessage":[
+            "MUY BIEN TE COMPARTO LOS DOCTORADOS Y COSTOS QUE EN UNIVERSIDAD.U.A.L TENEMOS PARA TI 😉: \n\n",
+            "Doctorados ejecutivo presenciales\n",
+            "*U.A.L.Centro de enlace Villa Victoria*\n\n",
+            "• Doctorado En Educación\n",
+            "• Doctorado En Derecho Procesal\n\n",
+            " para volver al menú escriba: *Inicio* 😃😃\n",
+            " Si requiere más información escriba *más información*\n"
+        ],
+        "media":"DGV.png",
+        "trigger":null
+    },
+    "STEP_6_5_3":{
+        "replyMessage":[
+            "MUY BIEN TE COMPARTO LOS DOCTORADOS Y COSTOS QUE EN UNIVERSIDAD.U.A.L TENEMOS PARA TI 😉: \n\n",
+            "Doctorados  100% ONLINE\n",
+            "*U.A.L.Centro de enlace Villa Victoria*\n\n",
+            "• Doctorado En Educación\n",
+            " para volver al menú escriba: *Inicio* 😃😃\n",
+            " Si requiere más información escriba *más información*\n"
+              
+        ],
+        "media":"DGV.png",
+        "trigger":null
+    },
+
+
+
+    "STEP_2_15":{
+        "replyMessage":[
+            "Selecciona el grado de tu interés.\n\n",
+            "*A5)* Bachillerato\n",
+            "*B5)* Licenciaturas\n",
+            "*C5)* Especialidades\n",
+            "*D5)* Maestrías\n",
+            "*E5)* Doctorados\n",
+            " para volver al menú escriba: *Inicio* 😃😃\n",
+            " Si requiere más información escriba *más información*\n"
+        ],
+        "media":null,
+        "trigger":null
+    },
+    "STEP_25_21":{
+        "replyMessage":[
+            "*¿Qué tipo de programa te gustaría estudiar?*\n\n",
+            "*A.B5)* Escolarizado presencial\n",
+            "*B.B5)* Ejecutivo Presencial\n",
+            "*Escribe la opción de tu interés (ejemplo: A.B5)*\n"
+
+        ],
+        "media":null,
+        "trigger":null
+    },
+    "STEP_25_1":{
+        "replyMessage":[
+            "Te comparto la información  del *Bachillerato😉*\n",
+            "*U.A.L. Centro de enlace Valle de Bravo*\n\n",
+            " para volver al menú escriba: *Inicio* 😃😃\n"
+
+
+        ],
+        "media":"BACH-VALL-PRE.png",
+        "trigger":null
+    },
+    "STEP_25_22":{
+        "replyMessage":[
+            "Te comparto la información  del *Bachillerato😉*\n",
+            "*U.A.L. Centro de enlace Valle de Bravo*\n\n",
+            " para volver al menú escriba: *Inicio* 😃😃\n"
+
+
+        ],
+        "media":"BACH-VALL-EJE.png",
+        "trigger":null
+    },
+    "STEP_2_2_4":{
+        "replyMessage":[
+            "*¿Qué tipo de programa te gustaría estudiar?*\n\n",
+            "*A.5)* Escolarizado presencial\n",
+            "*B.5)* Ejecutivo Presencial\n",
+            "*C.5)* 100% online\n",
+            "*Escribe la opción de tu interés (ejemplo: A5)*\n"
+
+        ],
+        "media":null,
+        "trigger":null
+    },
+    "STEP_2_3_4":{
+        "replyMessage":[
+            "MUY BIEN TE COMPARTO LAS LICENCIATURAS Y COSTOS QUE EN UNIVERSIDAD.U.A.L TENEMOS PARA TI 😉: \n\n",
+            "*Licenciaturas Escolarizadas presenciales*\n",
+            "*U.A.L. Centro de enlace Valle de Bravo*\n\n",
+
+            "• Licenciatura En Administración\n",
+            "• Licenciatura En Administración Deportiva y Recreativa\n",
+            "• Licenciatura En Contaduría Pública\n",
+            "• Licenciatura En Derecho\n",
+            "• Licenciatura En Gastronomía \n",
+            "• Licenciatura En Ing. Industrial\n",
+            "• Licenciatura En Informática Administrativa\n",
+            "• Licenciatura En Mercadotecnia\n",
+            "• Licenciatura En Negocios Internacionales\n",
+            "• Licenciatura En Pedagogía \n",
+            "• Licenciatura En Psicología\n",
+            "• Licenciatura En Turismo \n",
+            " para volver al menú escriba: *Inicio* 😃😃\n",
+            " Si requiere más información escriba *más información*\n"
+
+            
+        ],
+        "media":"LVB.pdf",
+        "trigger":null
+    },
+    "STEP_2_4_4":{
+        "replyMessage":[
+            "MUY BIEN TE COMPARTO LAS LICENCIATURAS Y COSTOS QUE EN UNIVERSIDAD.U.A.L TENEMOS PARA TI 😉: \n\n",
+            "*Licenciaturas Ejecutivas Presenciales*\n",
+            "*U.A.L. Centro de enlace Valle de Bravo*\n\n",
+
+            "• Licenciatura En Administración\n",
+            "• Licenciatura En Administración Deportiva y Recreativa\n",
+            "• Licenciatura En Contaduría Pública\n",
+            "• Licenciatura En Derecho\n",
+            "• Licenciatura En Gastronomía \n",
+            "• Licenciatura En Ing. Industrial\n",
+            "• Licenciatura En Informática Administrativa\n",
+            "• Licenciatura En Mercadotecnia\n",
+            "• Licenciatura En Negocios Internacionales\n",
+            "• Licenciatura En Pedagogía \n",
+            "• Licenciatura En Psicología\n",
+            "• Licenciatura En Turismo \n",
+            " para volver al menú escriba: *Inicio* 😃😃\n",
+            " Si requiere más información escriba *más información*\n"
+        ],
+        "media":"LEVB.png",
+        "trigger":null
+    },
+    "STEP_3_4":{
+        "replyMessage":[
+            "MUY BIEN TE COMPARTO LAS LICENCIATURAS Y COSTOS QUE EN UNIVERSIDAD.U.A.L TENEMOS PARA TI 😉: \n\n",
+            "*Licenciaturas 100% ONLINE*\n",
+            "*U.A.L. Centro de enlace Valle de Bravo*\n\n",
+
+            "• Licenciatura En Filosofía Y Análisis Del Discurso\n",
+            "• Licenciatura En Relaciones Comerciales Internacionales\n",
+            "• Licenciatura En Servicio Público\n",
+            "• Licenciatura En Seguridad Y Protección Ciudadana\n",
+            "• Licenciatura En Derecho\n",
+            " para volver al menú escriba: *Inicio* 😃😃\n",
+            " Si requiere más información escriba *más información*\n"
+            
+
+        ],
+        "media":null,
+        "trigger":null
+    },
+
+
+    "STEP_4_14":{
+        "replyMessage":[
+            
+            "*¿Qué tipo de programa te gustaría estudiar?*\n\n",
+            "*A.5.1)* Escolarizado presencial\n",
+            "*B.5.1)* Ejecutivo Presencial\n",
+            "*C.5.1)* 100% online\n",
+            "*Escribe la opción de tu interés (ejemplo: A.5.1)*\n"
+
+        ],
+        "media":null,
+        "trigger":null
+    },
+    
+    "STEP_5_1_4":{
+        "replyMessage":[
+            "MUY BIEN TE COMPARTO LAS ESPECIALIDADES Y COSTOS QUE EN UNIVERSIDAD.U.A.L TENEMOS PARA TI 😉: \n\n",
+            "*Especialidades Escolarizadas presenciales*\n",
+            "*U.A.L. Centro de enlace Valle de Bravo*\n",
+
+
+            "• Especialidad En ADMINISTRACIÓN\n",
+            "• Especialidad En AMPARO\n",
+            "• Especialidad En AUDITORIA\n",
+            "• Especialidad En DERECHO CIVIL\n",
+            "• Especialidad En DERECHO PENAL\n",
+            "• Especialidad En EMPRESAS Y NEGOCIOS\n",
+            "• Especialidad En GESTIÓN EDUCATIVA\n",
+            " para volver al menú escriba: *Inicio* 😃😃\n",
+            " Si requiere más información escriba *más información*\n"
+        ],
+        "media":"EGVB.png",
+        "trigger":null
+    },
+    "STEP_5_2_4":{
+        "replyMessage":[
+            "MUY BIEN TE COMPARTO LAS ESPECIALIDADES Y COSTOS QUE EN UNIVERSIDAD.U.A.L TENEMOS PARA TI 😉: \n\n",
+            "*Especialidades Ejecutivas Presenciales*\n",
+            "*U.A.L. Centro de enlace Valle de Bravo*\n\n",
+
+            "• Especialidad En ADMINISTRACIÓN\n",
+            "• Especialidad En AMPARO\n",
+            "• Especialidad En AUDITORIA\n",
+            "• Especialidad En DERECHO CIVIL\n",
+            "• Especialidad En DERECHO PENAL\n",
+            "• Especialidad En EMPRESAS Y NEGOCIOS\n",
+            "• Especialidad En GESTIÓN EDUCATIVA\n",
+            " para volver al menú escriba: *Inicio* 😃😃\n",
+            " Si requiere más información escriba *más información*\n"
+            
+        ],
+        "media":"EGVB.png",
+        "trigger":null
+    },
+    "STEP_5_3_4":{
+        "replyMessage":[
+            "PENDIENTE ESPECIALDADES ONLINE PLANTEL 5\n",
+            "U.A.L. Centro de enlace Valle de Bravo\n\n",
+            " para volver al menú escriba: *Inicio* 😃😃\n",
+            " Si requiere más información escriba *más información*\n"
+        ],
+        "media":null,
+        "trigger":null
+    },
+    "STEP_5_4_4":{
+        "replyMessage":[
+            "*¿Qué tipo de programa te gustaría estudiar?*\n\n",
+            "*A.5.2)* Escolarizado presencial\n",
+            "*B.5.2)* Ejecutivo Presencial\n",
+            "*C.5.2)* 100% online\n",
+            "*Escribe la opción de tu interés (ejemplo: A.5.2)*\n"
+
+        ],
+        "media":null,
+        "trigger":null
+    },
+    "STEP_5_5_4":{
+        "replyMessage":[
+            "MUY BIEN TE COMPARTO LAS MAESTRÍAS Y COSTOS QUE EN UNIVERSIDAD.U.A.L TENEMOS PARA TI 😉: \n\n",
+            "*Maestrías Escolarizadas presenciales*\n",
+            "*U.A.L. Centro de enlace Valle de Bravo*\n\n",
+            "• Maestría En Calidad Total Productividad Y Certificación \n",
+            "• Maestría En Derecho Aduanal \n",
+            "• Maestría En Derecho Penal \n",
+            "• Maestría En Derecho Procesal Constitucional \n",
+            "• Maestría En Producción De Medios Informativos \n",
+            "• Maestría En Educación \n",
+
+            " para volver al menú escriba: *Inicio* 😃😃\n",
+            " Si requiere más información escriba *más información*\n"
+        ],
+        "media":"MVB.png",
+        "trigger":null
+    },
+    "STEP_6_14":{
+        "replyMessage":[
+            "MUY BIEN TE COMPARTO LAS MAESTRÍAS Y COSTOS QUE EN UNIVERSIDAD.U.A.L TENEMOS PARA TI 😉: \n\n",
+            "*Maestrías Ejecutivas Presenciales*\n",
+            "*U.A.L. Centro de enlace Valle de Bravo*\n\n",
+            "• Maestría En Calidad Total Productividad Y Certificación \n",
+            "• Maestría En Derecho Aduanal \n",
+            "• Maestría En Derecho Penal \n",
+            "• Maestría En Derecho Procesal Constitucional \n",
+            "• Maestría En Producción De Medios Informativos \n",
+            "• Maestría En Educación \n",
+            " para volver al menú escriba: *Inicio* 😃😃\n",
+            " Si requiere más información escriba *más información*\n"
+        ],
+        "media":"MVB.png",
+        "trigger":null
+    },
+    "STEP_6_1_4":{
+        "replyMessage":[
+            "MUY BIEN TE COMPARTO LAS MAESTRÍAS Y COSTOS QUE EN UNIVERSIDAD.U.A.L TENEMOS PARA TI 😉: \n\n",
+            "*Maestrías 100% ONLINE*\n",
+            "*U.A.L. Centro de enlace Valle de Bravo*\n\n",
+
+            "• Maestría En Derecho \n",
+            "• Maestría En Matemáticas Del Bachillerato \n",
+            "• Maestría En Paz Y Seguridad \n",
+            "• Maestría En Seguridad Pública \n",
+
+            " para volver al menú escriba: *Inicio* 😃😃\n",
+            " Si requiere más información escriba *más información*\n"
+        ],
+        "media":"MVB.png",
+        "trigger":null
+    },
+    "STEP_6_2_4":{
+        "replyMessage":[
+            "*¿Qué tipo de programa te gustaría estudiar?*\n\n",
+            "*A.5.3)* Escolarizado presencial\n",
+            "*B.5.3)* Ejecutivo Presencial\n",
+            "*C.5.3)* 100% online\n",
+            "*Escribe la opción de tu interés (ejemplo: A.5.3)*\n"
+
+              
+        ],
+        "media":null,
+        "trigger":null
+    },
+    "STEP_6_3_4":{
+        "replyMessage":[
+            "MUY BIEN TE COMPARTO LOS DOCTORADOS Y COSTOS QUE EN UNIVERSIDAD.U.A.L TENEMOS PARA TI 😉: \n\n",
+            "*DOCTORADOS PRESENCIALES*\n",
+            "*U.A.L. Centro de enlace Valle de Bravo*\n\n",
+            "• Doctorado En Educación\n",
+            "• Doctorado En Derecho Procesal\n",
+
+            " para volver al menú escriba: *Inicio* 😃😃\n",
+            " Si requiere más información escriba *más información*\n"
+
+            
+        ],
+        "media":"DGVB.png",
+        "trigger":null
+    },
+    "STEP_6_4_4":{
+        "replyMessage":[
+            "MUY BIEN TE COMPARTO LOS DOCTORADOS Y COSTOS QUE EN UNIVERSIDAD.U.A.L TENEMOS PARA TI 😉: \n\n",
+            "Doctorados ejecutivos presenciales\n",
+            "*U.A.L. Centro de enlace Valle de Bravo*\n\n",
+            "• Doctorado En Educación\n",
+            "• Doctorado En Derecho Procesal\n",
+            
+            " para volver al menú escriba: *Inicio* 😃😃\n",
+            " Si requiere más información escriba *más información*\n"
+
+        ],
+        "media":"DGVB.png",
+        "trigger":null
+    },
+    "STEP_6_5_4":{
+        "replyMessage":[
+            "MUY BIEN TE COMPARTO LOS DOCTORADOS Y COSTOS QUE EN UNIVERSIDAD.U.A.L TENEMOS PARA TI 😉: \n\n",
+            "Doctorados  100% ONLINE\n",
+            "*U.A.L. Centro de enlace Valle de Bravo*\n\n",
+            "•Doctorado En Educación\n",
+            " para volver al menú escriba: *Inicio* 😃😃\n",
+            " Si requiere más información escriba *más información*\n"
+              
+        ],
+        "media":"DGVB.png",
+        "trigger":null
+    },
+
+
+
+
+    "STEP_2_16":{
+        "replyMessage":[
+            "Selecciona el grado de tu interés.\n\n",
+            "*A6)* Bachillerato  \n",
+            "*B6)* Licenciaturas  \n",
+            "*C6)* Especialidades  \n",
+            "*D6)* Maestrías \n",
+            "*E6)* Doctorados  \n",
+            "*Escribe la opción de tu interés (ejemplo: A6)*\n"
+
+        ],
+        "media":null,
+        "trigger":null
+    },
+    "STEP_26_21":{
+        "replyMessage":[
+            "*¿Qué tipo de programa te gustaria estudiar?*\n\n",
+            "*A.B6)* Escolarizado presencial\n",
+            "*B.B6)* Ejecutivo Presencial\n",
+            "*Escribe la opción de tu interés (ejemplo: A.B6)*\n"
+
+        ],
+        "media":null,
+        "trigger":null
+    },
+    "STEP_26_1":{
+        "replyMessage":[
+            "Te comparto la información  del *Bachillerato😉*\n",
+            "*U.A.L-IUniversitatis Plantel Zitácuaro Michoacán*\n\n",
+            " para volver al menú escriba: *Inicio* 😃😃\n"
+
+
+        ],
+        "media":"BACH-ZIT-PRE.png",
+        "trigger":null
+    },
+    "STEP_26_22":{
+        "replyMessage":[
+            "Te comparto la información  del *Bachillerato😉*\n",
+            "*U.A.L-IUniversitatis Plantel Zitácuaro Michoacán*\n\n",
+            " para volver al menú escriba: *Inicio* 😃😃\n"
+
+
+        ],
+        "media":"BACH-ZIT-EJE.png",
+        "trigger":null
+    },
+    "STEP_2_2_5":{
+        "replyMessage":[
+            "*¿Qué tipo de programa te gustaría estudiar?*\n\n",
+            "*A.6)* Escolarizado presencial\n",
+            "*B.6)* Ejecutivo Presencial\n",
+            "*C.6)* 100% online\n",
+            "*Escribe la opción de tu interés (ejemplo: A.6)*\n"
+
+
+        ],
+        "media":null,
+        "trigger":null
+    },
+    "STEP_2_3_5":{
+        "replyMessage":[
+            "MUY BIEN TE COMPARTO LAS LICENCIATURAS Y COSTOS QUE EN UNIVERSIDAD.U.A.L TENEMOS PARA TI 😉: \n\n",
+            "*Licenciaturas Escolarizadas presenciales*\n",
+            "*U.A.L-IUniversitatis Plantel Zitácuaro Michoacán*\n\n",
+
+            "• Licenciatura En Administración\n",
+            "• Licenciatura En Administración Deportiva y Recreativa\n",
+            "• Licenciatura En Contaduría Pública\n",
+            "• Licenciatura En Derecho\n",
+            "• Licenciatura En Gastronomía \n",
+            "• Ing. Industrial\n",
+            "• Licenciatura En Informática Administrativa\n",
+            "• Licenciatura En Mercadotecnia\n",
+            "• Licenciatura En Negocios Internacionales\n",
+            "• Licenciatura En Pedagogía \n",
+            "• Licenciatura En Psicología\n",
+            "• Licenciatura En Turismo \n",
+            " para volver al menú escriba: *Inicio* 😃😃\n",
+            " Si requiere más información escriba *más información*\n"
+
+            
+        ],
+        "media":"LIPZIT.png",
+        "trigger":null
+    },
+    "STEP_2_4_5":{
+        "replyMessage":[
+            "MUY BIEN TE COMPARTO LAS LICENCIATURAS Y COSTOS QUE EN UNIVERSIDAD.U.A.L TENEMOS PARA TI 😉: \n\n",
+            "*Licenciaturas Ejecutivas Presenciales\n",
+            "*U.A.L-IUniversitatis Plantel Zitácuaro Michoacán*\n\n",
+            
+            "• Licenciatura En Administración\n",
+            "• Licenciatura En Administración Deportiva y Recreativa\n",
+            "• Licenciatura En Contaduría Pública\n",
+            "• Licenciatura En Derecho\n",
+            "• Licenciatura En Gastronomía \n",
+            "• Ing. Industrial\n",
+            "• Licenciatura En Informática Administrativa\n",
+            "• Licenciatura En Mercadotecnia\n",
+            "• Licenciatura En Negocios Internacionales\n",
+            "• Licenciatura En Pedagogía \n",
+            "• Licenciatura En Psicología\n",
+            "• Licenciatura En Turismo \n",
+            " para volver al menú escriba: *Inicio* 😃😃\n",
+            " Si requiere más información escriba *más información*\n"
+        ],
+        "media":"Costos-Lic-Ejecutivas-ZIT.pdf",
+        "trigger":null
+    },
+    "STEP_3_5":{
+        "replyMessage":[
+            "MUY BIEN TE COMPARTO LAS LICENCIATURAS Y COSTOS QUE EN UNIVERSIDAD.U.A.L TENEMOS PARA TI 😉: \n\n",
+            "*Licenciaturas 100% ONLINE*\n\n",
+            "*U.A.L-IUniversitatis Plantel Zitácuaro Michoacán*\n\n",
+
+            "• Licenciatura En Filosofía Y Análisis Del Discurso\n",
+            "• Licenciatura En Relaciones Comerciales Internacionales\n",
+            "• Licenciatura En Servicio Público\n",
+            "• Licenciatura En Seguridad Y Protección Ciudadana\n",
+            "• Licenciatura En Derecho\n",
+            " para volver al menú escriba: *Inicio* 😃😃\n",
+            " Si requiere más información escriba *más información*\n"
+            
+
+        ],
+        "media":null,
+        "trigger":null
+    },
+
+
+    "STEP_4_15":{
+        "replyMessage":[
+            
+            "*¿Qué tipo de programa te gustaria estudiar?*\n\n",
+            "*A.6.1)* Escolarizado presencial\n",
+            "*B.6.1)* Ejecutivo Presencial\n",
+            "*C.6.1)* 100% online\n",
+            "*Escribe la opción de tu interés (ejemplo: A.6.1)*\n"
+
+        ],
+        "media":null,
+        "trigger":null
+    },
+    
+    "STEP_5_1_5":{
+        "replyMessage":[
+            "MUY BIEN TE COMPARTO LAS ESPECIALIDADES Y COSTOS QUE EN UNIVERSIDAD.U.A.L TENEMOS PARA TI 😉: \n\n",
+            "*Especialidades Escolarizadas presenciales*\n",
+            "*U.A.L-IUniversitatis Plantel Zitácuaro Michoacán*\n\n",
+
+
+            "• Especialidad En Administración\n",
+            "• Especialidad En Amparo\n",
+            "• Especialidad En Auditoria\n",
+            "• Especialidad En Derecho Civil\n",
+            "• Especialidad En Derecho Penal\n",
+            "• Especialidad En Empresas Y Negocios\n",
+            "• Especialidad En Gestión Educativa\n",
+            " para volver al menú escriba: *Inicio* 😃😃\n",
+            " Si requiere más información escriba *más información*\n"
+        ],
+        "media":"EGZIT.png",
+        "trigger":null
+    },
+    "STEP_5_2_5":{
+        "replyMessage":[
+            "MUY BIEN TE COMPARTO LAS ESPECIALIDADES Y COSTOS QUE EN UNIVERSIDAD.U.A.L TENEMOS PARA TI 😉: \n\n",
+            "*Especialidades Ejecutivas Presenciales\n",
+            "*U.A.L-IUniversitatis Plantel Zitácuaro Michoacán*\n\n",
+            "• Especialidad En Administración\n",
+            "• Especialidad En Amparo\n",
+            "• Especialidad En Auditoria\n",
+            "• Especialidad En Derecho Civil\n",
+            "• Especialidad En Derecho Penal\n",
+            "• Especialidad En Empresas Y Negocios\n",
+            "• Especialidad En Gestión Educativa\n",
+            " para volver al menú escriba: *Inicio* 😃😃\n",
+            " Si requiere más información escriba *más información*\n"
+            
+        ],
+        "media":"EGZIT.png",
+        "trigger":null
+    },
+    "STEP_5_3_5":{
+        "replyMessage":[
+            "PENDIENTE ESPECIALDADES ONLINE PLANTEL 5\n",
+            "*U.A.L-IUniversitatis Plantel Zitácuaro Michoacán*\n\n",
+            " para volver al menú escriba: *Inicio* 😃😃\n",
+            " Si requiere más información escriba *más información*\n"
+        ],
+        "media":null,
+        "trigger":null
+    },
+    "STEP_5_4_5":{
+        "replyMessage":[
+            "*¿Qué tipo de programa te gustaría estudiar?*\n\n",
+            "*A.6.2)* Escolarizado presencial\n",
+            "*B.6.2)* Ejecutivo Presencial\n",
+            "*C.6.2)* 100% online\n",
+            "*Escribe la opción de tu interés (ejemplo: A.6.2)*\n"
+
+        ],
+        "media":null,
+        "trigger":null
+    },
+    "STEP_5_5_5":{
+        "replyMessage":[
+            "MUY BIEN TE COMPARTO LAS MAESTRÍAS Y COSTOS QUE EN UNIVERSIDAD.U.A.L TENEMOS PARA TI 😉: \n\n",
+            "*Maestrías Escolarizadas prbesenciales*\n",
+            "*U.A.L-IUniversitatis Plantel Zitácuaro Michoacán*\n\n",
+            "• Maestría En Calidad Total Productividad Y Certificación \n",
+            "• Maestría En Derecho Aduanal \n",
+            "• Maestría En Derecho Penal \n",
+            "• Maestría En Derecho Procesal Constitucional \n",
+            "• Maestría En Producción De Medios Informativos \n",
+            "• Maestría En Educación \n",
+
+            " para volver al menú escriba: *Inicio* 😃😃\n",
+            " Si requiere más información escriba *más información*\n"
+        ],
+        "media":"MVZIT.png",
+        "trigger":null
+    },
+    "STEP_6_15":{
+        "replyMessage":[
+            "MUY BIEN TE COMPARTO LAS MAESTRÍAS Y COSTOS QUE EN UNIVERSIDAD.U.A.L TENEMOS PARA TI 😉: \n\n",
+            "*Maestrías Ejecutivas Presenciales*\n",
+            "*U.A.L.Plantel Zitácuaro Michoacán*\n\n",
+            "• Maestría En Calidad Total Productividad Y Certificación \n",
+            "• Maestría En Derecho Aduanal \n",
+            "• Maestría En Derecho Penal \n",
+            "• Maestría En Derecho Procesal Constitucional \n",
+            "• Maestría En Producción De Medios Informativos \n",
+            "• Maestría En Educación \n",
+            " para volver al menú escriba: *Inicio* 😃😃\n",
+            " Si requiere más información escriba *más información*\n"
+        ],
+        "media":"MásEjecuZ.pdf",
+        "trigger":null
+    },
+    "STEP_6_1_5":{
+        "replyMessage":[
+            "MUY BIEN TE COMPARTO LAS MAESTRÍAS Y COSTOS QUE EN UNIVERSIDAD.U.A.L TENEMOS PARA TI 😉: \n\n",
+            "*Maestrías 100% ONLINE*\n",
+            "*U.A.L-IUniversitatis Plantel Zitácuaro Michoacán*\n\n",
+
+            "• Maestría En Derecho \n",
+            "• Maestría En Matemáticas Del Bachillerato \n",
+            "• Maestría En Paz Y Seguridad \n",
+            "• Maestría En Seguridad Pública \n",
+
+            " para volver al menú escriba: *Inicio* 😃😃\n",
+            " Si requiere más información escriba *más información*\n"
+        ],
+        "media":null,
+        "trigger":null
+    },
+    "STEP_6_2_5":{
+        "replyMessage":[
+            "¿Qué tipo de programa te gustaría estudiar?\n",
+            "*A.6.3)* Escolarizado presencial\n\n",
+            "*B.6.3)* Ejecutivo Presencial\n\n",
+            "*C.6.3)* 100% online\n\n",
+            "*Escribe la opción de tu interés (ejemplo: A.6.3)*\n"
+
+              
+        ],
+        "media":null,
+        "trigger":null
+    },
+    "STEP_6_3_5":{
+        "replyMessage":[
+            "MUY BIEN TE COMPARTO LOS DOCTORADOS Y COSTOS QUE EN UNIVERSIDAD.U.A.L TENEMOS PARA TI 😉: \n\n",
+            "*DOCTORADOS PRESENCIALES*\n",
+            "*U.A.L-IUniversitatis Plantel Zitácuaro Michoacán*\n\n",
+            "• Doctorado En Educación\n",
+            "• Doctorado En Derecho Procesal\n",
+
+            " para volver al menú escriba: *Inicio* 😃😃\n",
+            " Si requiere más información escriba *más información*\n"
+
+            
+        ],
+        "media":null,
+        "trigger":null
+    },
+    "STEP_6_4_5":{
+        "replyMessage":[
+            "MUY BIEN TE COMPARTO LOS DOCTORADOS Y COSTOS QUE EN UNIVERSIDAD.U.A.L TENEMOS PARA TI 😉: \n\n",
+            "Doctorados ejecutivos presenciales\n",
+            "*U.A.L-IUniversitatis Plantel Zitácuaro Michoacán*\n\n",
+            "• Doctorado En Educación\n",
+            "• Doctorado En Derecho Procesal\n",
+
+            " para volver al menú escriba: *Inicio* 😃😃\n",
+            " Si requiere más información escriba *más información*\n"
+
+        ],
+        "media":"DNZIT.png",
+        "trigger":null
+    },
+    "STEP_6_5_5":{
+        "replyMessage":[
+            "MUY BIEN TE COMPARTO LOS DOCTORADOS Y COSTOS QUE EN UNIVERSIDAD.U.A.L TENEMOS PARA TI 😉: \n\n",
+            "Doctorados 100% ONLINE\n\n",
+            "*U.A.L-IUniversitatis Plantel Zitácuaro Michoacán*\n\n",
+            "• Doctorado En Educación\n",
+            " para volver al menú escriba: *Inicio* 😃😃\n",
+            " Si requiere más información escriba *más información*\n"
+              
+        ],
+        "media":null,
+        "trigger":null
+    },
+
+
+    "STEP_2_17":{
+        "replyMessage":[
+            "Selecciona el grado de tu interés.\n\n",
+            "*A7)* Bachillerato\n",
+            "*B7)* Licenciaturas\n",
+            "*C7)* Especialidades\n",
+            "*D7)* Maestrías\n",
+            "*E7)* Doctorados\n",
+            "*Escribe la opción de tu interés (ejemplo: A7)*\n"
+
+        ],
+        "media":null,
+        "trigger":null
+    },
+    "STEP_2_1_6":{
+        "replyMessage":[
+            "*No contamos con bachillerato en este plantel*\n",
+            "*U.A.L.Plantel Cabos San Lucas* \n\n",
+            " para volver al menú escriba: *Inicio* 😃😃\n",
+            " si requiere más información escriba *más informacion*\n"
+
+        ],
+        "media":null,
+        "trigger":null
+    },
+    "STEP_2_2_6":{
+        "replyMessage":[
+            "*¿Qué tipo de programa te gustaría estudiar?*\n\n",
+            "*A.7)* Escolarizado presencial\n",
+            "*B.7)* Ejecutivo Presencial\n",
+            "*C.7)* 100% online\n",
+            "*Escribe la opción de tu interés (ejemplo: A.7)*\n"
+
+        ],
+        "media":null,
+        "trigger":null
+    },
+    "STEP_2_3_6":{
+        "replyMessage":[
+            "MUY BIEN TE COMPARTO LAS LICENCIATURAS Y COSTOS QUE EN UNIVERSIDAD.U.A.L TENEMOS PARA TI 😉: \n\n",
+            
+            "*Licenciaturas Escolarizadas presenciales*\n",
+            "*U.A.L.Plantel Cabos San Lucas*\n\n",
+
+            "• Licenciatura En Administración\n",
+            "• Licenciatura En Contaduría Pública\n",
+            "• Licenciatura En Derecho\n",
+            "• Licenciatura En Negocios Internacionales\n",
+            "• Licenciatura En Pedagogía \n",
+            "• Licenciatura En Psicología\n",
+            " para volver al menú escriba: *Inicio* 😃😃\n",
+            " Si requiere más información escriba *más información*\n"
+
+            
+        ],
+        "media":"LPC.png",
+        "trigger":null
+    },
+    "STEP_2_4_6":{
+        "replyMessage":[
+            "MUY BIEN TE COMPARTO LAS LICENCIATURAS Y COSTOS QUE EN UNIVERSIDAD.U.A.L TENEMOS PARA TI 😉: \n\n",
+            "*Licenciaturas Ejecutivas Presenciales\n",
+            "*U.A.L.Plantel Cabos San Lubcas*\n\n",
+            
+            "• Licenciatura En Administración\n",
+            "• Licenciatura En Contaduría Pública\n",
+            "• Licenciatura En Derecho\n",
+            "• Licenciatura En Negocios Internacionales\n",
+            "• Licenciatura En Pedagogía \n",
+            "• Licenciatura En Psicología\n",
+            " para volver al menú escriba: *Inicio* 😃😃\n",
+            " Si requiere más información escriba *más información*\n"
+        ],
+        "media":"Costos-Lic-Ejecutivas-CAB.pdf",
+        "trigger":null
+    },
+    "STEP_3_6":{
+        "replyMessage":[
+            "MUY BIEN TE COMPARTO LAS LICENCIATURAS Y COSTOS QUE EN UNIVERSIDAD.U.A.L TENEMOS PARA TI 😉: \n\n",
+            "*Licenciaturas 100% ONLINE*\n",
+            "*U.A.L.Plantel Cabos San Lucas*\n\n",
+
+            "• Licenciatura En Filosofía Y Análisis Del Discurso\n",
+            "• Licenciatura En Relaciones Comerciales Internacionales\n",
+            "• Licenciatura En Servicio Público\n",
+            "• Licenciatura En Seguridad Y Protección Ciudadana\n",
+            "• Licenciatura En Derecho\n",
+            " para volver al menú escriba: *Inicio* 😃😃\n",
+            " Si requiere más información escriba *más información*\n"
+            
+
+        ],
+        "media":null,
+        "trigger":null
+    },
+
+
+    "STEP_4_16":{
+        "replyMessage":[
+            
+            "*¿Qué tipo de programa te gustaria estudiar?*\n\n",
+            "*A.7.1)* Escolarizado presencial\n",
+            "*B.7.1)* Ejecutivo Presencial\n",
+            "*C.7.1)* 100% online\n",
+            "*Escribe la opción de tu interés (ejemplo: A.7.1)*\n"
+
+        ],
+        "media":null,
+        "trigger":null
+    },
+    
+    "STEP_5_1_6":{
+        "replyMessage":[
+            "MUY BIEN TE COMPARTO LAS ESPECIALIDADES Y COSTOS QUE EN UNIVERSIDAD.U.A.L TENEMOS PARA TI 😉: \n\n",
+            "*Especialidades Escolarizadas presenciales*\n",
+            "*U.A.L.Plantel Cabos San Lucas*\n\n",
+
+
+            "• Especialidad En Administración\n",
+            "• Especialidad En Amparo\n",
+            "• Especialidad En Auditoria\n",
+            "• Especialidad En Derecho Civil\n",
+            "• Especialidad En Derecho Penal\n",
+            "• Especialidad En Empresas Y Negocios\n",
+            "• Especialidad En Gestión Educativa\n",
+
+            " para volver al menú escriba: *Inicio* 😃😃\n",
+            " Si requiere más información escriba *más información*\n"
+        ],
+        "media":null,
+        "trigger":null
+    },
+    "STEP_5_2_6":{
+        "replyMessage":[
+            "MUY BIEN TE COMPARTO LAS ESPECIALIDADES Y COSTOS QUE EN UNIVERSIDAD.U.A.L TENEMOS PARA TI 😉: \n\n",
+            "*Especialidades Ejecutivas Presenciales\n",
+            "*U.A.L.Plantel Cabos San Lucas*\n\n",
+            "• Especialidad En Administración\n",
+            "• Especialidad En Amparo\n",
+            "• Especialidad En Auditoria\n",
+            "• Especialidad En Derecho Civil\n",
+            "• Especialidad En Derecho Penal\n",
+            "• Especialidad En Empresas Y Negocios\n",
+            "• Especialidad En Gestión Educativa\n",
+            " para volver al menú escriba: *Inicio* 😃😃\n",
+            " Si requiere más información escriba *más información*\n"
+
+        
+            
+        ],
+        "media":null,
+        "trigger":null
+    },
+    "STEP_5_3_6":{
+        "replyMessage":[
+            "PENDIENTE ESPECIALDADES ONLINE PLANTEL 5\n",
+            "*U.A.L.Plantel Cabos San Lubcas* \n\n",
+            " para volver al menú escriba: *Inicio* 😃😃\n",
+            " Si requiere más información escriba *más información*\n"
+        ],
+        "media":null,
+        "trigger":null
+    },
+    "STEP_5_4_6":{
+        "replyMessage":[
+            "*¿Qué tipo de programa te gustaría estudiar?*\n\n",
+            "*A.7.2)* Escolarizado presencial\n",
+            "*B.7.2)* Ejecutivo Presencibal\n",
+            "*C.7.2)* 100% online\n",
+            "*Escribe la opción de tu interés (ejemplo: A.7.2)*\n"
+
+        ],
+        "media":null,
+        "trigger":null
+    },
+    "STEP_5_5_6":{
+        "replyMessage":[
+            "MUY BIEN TE COMPARTO LAS MAESTRÍAS Y COSTOS QUE EN UNIVERSIDAD.U.A.L TENEMOS PARA TI 😉: \n\n",
+            "*Maestrías Escolarizadas presenciales*\n",
+            "*U.A.L.Plantel Cabos San Lucas*\n\n",
+            "• Maestría En Educación \n",
+            " para volver al menú escriba: *Inicio* 😃😃\n",
+            " Si requiere más información escriba *más información*\n"
+        ],
+        "media":"MGC.png",
+        "trigger":null
+    },
+    "STEP_6_16":{
+        "replyMessage":[
+            "MUY BIEN TE COMPARTO LAS MAESTRÍAS Y COSTOS QUE EN UNIVERSIDAD.U.A.L TENEMOS PARA TI 😉: \n\n",
+            "*Maestrías Ejecutivas Presenciales*\n",
+            "*U.A.L.Plantel Cabos San Lucas*\n\n",
+            "• Maestría En Educación \n",
+            " para volver al menú escriba: *Inicio* 😃😃\n",
+            " Si requiere más información escriba *más información*\n"
+
+        ],
+        "media":"MGC.png",
+        "trigger":null
+    },
+    "STEP_6_1_6":{
+        "replyMessage":[
+            "MUY BIEN TE COMPARTO LAS MAESTRÍAS Y COSTOS QUE EN UNIVERSIDAD.U.A.L TENEMOS PARA TI 😉: \n\n",
+            "*Maestrías 100% ONLINE*\n",
+            "*U.A.L.Plantel Cabos San Lucas* \n\n",
+
+            "• Maestría En Derecho \n",
+            "• Maestría En Matemáticas Del Bachillerato \n",
+            "• Maestría En Paz Y Seguridad \n",
+            "• Maestría En Seguridad Pública \n",
+
+            " para volver al menú escriba: *Inicio* 😃😃\n",
+            " Si requiere más información escriba *más información*\n"
+        ],
+        "media":"MGC.png",
+        "trigger":null
+    },
+    "STEP_6_2_6":{
+        "replyMessage":[
+            "*¿Qué tipo de programa te gustaría estudiar?*\n\n",
+            "*A.7.3)* Escolarizado presencial\n",
+            "*B.7.3)* Ejecutivo Presencial\n",
+            "*C.7.3)* 100% online\n",
+            "*Escribe la opción de tu interés (ejemplo: A.7.3)*\n"
+
+              
+        ],
+        "media":null,
+        "trigger":null
+    },
+    "STEP_6_3_6":{
+        "replyMessage":[
+            "MUY BIEN TE COMPARTO LOS DOCTORADOS Y COSTOS QUE EN UNIVERSIDAD.U.A.L TENEMOS PARA TI 😉: \n\n",
+            "*DOCTORADOS PRESENCIALES*\n",
+            "*U.A.L.Plantel Cabos San Lucas*\n\n",
+            "• Doctorado En Educación\n",
+            "• Doctorado En Derecho Procesal\n",
+            " para volver al menú escriba: *Inicio* 😃😃\n",
+            " Si requiere más información escriba *más información*\n"
+
+            
+        ],
+        "media":null,
+        "trigger":null
+    },
+    "STEP_6_4_6":{
+        "replyMessage":[
+            "MUY BIEN TE COMPARTO LOS DOCTORADOS Y COSTOS QUE EN UNIVERSIDAD.U.A.L TENEMOS PARA TI 😉: \n\n",
+            "Doctorados ejecutivos presenciales\n",
+            "*U.A.L.Plantel Cabos San Lucas*\n\n",
+            "• Doctorado En Educación\n",
+            "• Doctorado En Derecho Procesal\n",
+            " para volver al menú escriba: *Inicio* 😃😃\n",
+            " Si requiere más información escriba *más información*\n"
+        ],
+        "media":null,
+        "trigger":null
+    },
+    "STEP_6_5_6":{
+        "replyMessage":[
+            "MUY BIEN TE COMPARTO LOS DOCTORADOS Y COSTOS QUE EN UNIVERSIDAD.U.A.L TENEMOS PARA TI 😉: \n\n",
+            "Doctorados  100% ONLINE\n",
+            "*U.A.L.Plantel Cabos San Lucas*\n\n",
+            "• Doctorado En Educación \n",
+            " para volver al menú escriba: *Inicio* 😃😃\n",
+            " Si requiere más información escriba *más información*\n"
+              
+        ],
+        "media":null,
+        "trigger":null
+    },
+
+
+    "STEP_2_18":{
+        "replyMessage":[
+            "Selecciona el grado de tu interés.\n\n",
+            "*A8)* Bachillerato  \n",
+            "*B8)* Licenciaturas  \n",
+            "*C8)* Especialidades  \n",
+            "*D8)* Maestrías \n",
+            "*E8)* Doctorados  \n",
+            "*Escribe la opción de tu interés (ejemplo: A8)*\n"
+
+        ],
+        "media":null,
+        "trigger":null
+    },
+    "STEP_2_1_7":{
+        "replyMessage":[
+            "*No contamos con bachillerato en este plantel*\n",
+            "*U.A.L.Plantel San José del Cabo*\n\n"
+
+        ],
+        "media":null,
+        "trigger":null
+    },
+    "STEP_2_2_7":{
+        "replyMessage":[
+            "*¿Qué tipo de programa te gustaría estudiar?*\n\n",
+            "*A.8)* Escolarizado presencial\n",
+            "*B.8)* Ejecutivo Presencial\n",
+            "*C.8)* 100% online\n",
+            "*Escribe la opción de tu interés (ejemplo: A.8)*\n"
+
+
+        ],
+        "media":null,
+        "trigger":null
+    },
+    "STEP_2_3_7":{
+        "replyMessage":[
+            "MUY BIEN TE COMPARTO LAS LICENCIATURAS Y COSTOS QUE EN UNIVERSIDAD.U.A.L TENEMOS PARA TI 😉: \n\n",
+            "*Licenciaturas Escolarizadas presenciales*\n",
+            "*U.A.L.Plantel San José del Cabo*\n\n",
+
+            "• Licenciatura En Administración\n",
+            "• Licenciatura En Contaduría Pública\n",
+            "• Licenciatura En Derecho\n",
+            "• Licenciatura En Negocios Internacionales\n",
+            "• Licenciatura En Pedagogía \n",
+            "• Licenciatura En Psicología\n",
+            " para volver al menú escriba: *Inicio* 😃😃\n",
+            " Si requiere más información escriba *más información*\n"
+
+            
+        ],
+        "media":"LPC.pnG",
+        "trigger":null
+    },
+    "STEP_2_4_7":{
+        "replyMessage":[
+            "MUY BIEN TE COMPARTO LAS LICENCIATURAS Y COSTOS QUE EN UNIVERSIDAD.U.A.L TENEMOS PARA TI 😉: \n\n",
+            "*Licenciaturas Ejecutivas Presénciales\n",
+            "*U.A.L.Plantel San José del Cabo*\n\n",
+            "• Licenciatura En Administración\n",
+            "• Licenciatura En Contaduría Pública\n",
+            "• Licenciatura En Derecho\n",
+            "• Licenciatura En Negocios Internacionales\n",
+            "• Licenciatura En Pedagogía \n",
+            "• Licenciatura En Psicología\n",
+            " para volver al menú escriba: *Inicio* 😃😃\n",
+            " Si requiere más información escriba *más información*\n"
+        ],
+        "media":"Costos-Lic-Ejecutivas-CAB.pdf",
+        "trigger":null
+    },
+    "STEP_3_7":{
+        "replyMessage":[
+            "MUY BIEN TE COMPARTO LAS LICENCIATURAS Y COSTOS QUE EN UNIVERSIDAD.U.A.L TENEMOS PARA TI 😉: \n\n",
+            "*Licenciaturas 100% ONLINE*\n",
+            "*U.A.L.Plantel San José del Cabo*\n\n",
+
+            "• Licenciatura En Filosofía Y Análisis Del Discurso\n",
+            "• Licenciatura En Relaciones Comerciales Internacionales\n",
+            "• Licenciatura En Servicio Público\n",
+            "• Licenciatura En Seguridad Y Protección Ciudadana\n",
+            "• Licenciatura En Derecho\n",
+            " para volver al menú escriba: *Inicio* 😃😃\n",
+            " Si requiere más información escriba *más información*\n"
+            
+
+        ],
+        "media":null,
+        "trigger":null
+    },
+
+
+    "STEP_4_17":{
+        "replyMessage":[
+            
+            "*¿Qué tipo de programa te gustaría estudiar?*\n\n",
+            "*A.8.1)* Escolarizado presencial\n",
+            "*B.8.1)* Ejecutivo Presencial\n",
+            "*C.8.1)* 100% online\n",
+            "*Escribe la opción de tu interés (ejemplo: A.8.1)*\n"
+
+        ],
+        "media":null,
+        "trigger":null
+    },
+    
+    "STEP_5_1_7":{
+        "replyMessage":[
+            "MUY BIEN TE COMPARTO LAS ESPECIALIDADES Y COSTOS QUE EN UNIVERSIDAD.U.A.L TENEMOS PARA TI 😉: \n\n",
+            "*Especialidades Escolarizadas presenciales*\n",
+            "*U.A.L.Plantel San José del Cabo*\n\n",
+
+            "• Especialidad En Administración\n",
+            "• Especialidad En Amparo\n",
+            "• Especialidad En Auditoria\n",
+            "• Especialidad En Derecho Civil\n",
+            "• Especialidad En Derecho Penal\n",
+            "• Especialidad En Empresas Y Negocios\n",
+            "• Especialidad En Gestión Educativa\n",
+ 
+            " para volver al menú escriba: *Inicio* 😃😃\n",
+            " Si requiere más información escriba *más información*\n"
+        ],
+        "media":null,
+        "trigger":null
+    },
+    "STEP_5_2_7":{
+        "replyMessage":[
+            "MUY BIEN TE COMPARTO LAS ESPECIALIDADES Y COSTOS QUE EN UNIVERSIDAD.U.A.L TENEMOS PARA TI 😉: \n\n",
+            "*Especialidades Ejecutivas Presenciales\n",
+            "*U.A.L.Plantel San José del Cabo*\n\n",
+            "• Especialidad En Administración\n",
+            "• Especialidad En Amparo\n",
+            "• Especialidad En Auditoria\n",
+            "• Especialidad En Derecho Civil\n",
+            "• Especialidad En Derecho Penal\n",
+            "• Especialidad En Empresas Y Negocios\n",
+            "• Especialidad En Gestión Educativa\n",
+            " para volver al menú escriba: *Inicio* 😃😃\n",
+            " Si requiere más información escriba *más información*\n"
+
+            
+        ],
+        "media":null,
+        "trigger":null
+    },
+    "STEP_5_3_7":{
+        "replyMessage":[
+            "PENDIENTE ESPECIALDADES ONLINE PLANTEL 8\n",
+            "*U.A.L.Plantel San José del Cabo*\n\n",
+            " para volver al menú escriba: *Inicio* 😃😃\n",
+            " Si requiere más información escriba *más información*\n"
+        ],
+        "media":null,
+        "trigger":null
+    },
+    "STEP_5_4_7":{
+        "replyMessage":[
+            "*¿Qué tipo de programa te gustaria estudiar?*\n\n",
+            "*A.8.2)* Escolarizado presencial\n",
+            "*B.8.2)* Ejecutivo Presencial\n",
+            "*C.8.2)* 100% online\n",
+            "*Escribe la opción de tu interés (ejemplo: A.8.2)*\n"
+
+        ],
+        "media":null,
+        "trigger":null
+    },
+    "STEP_5_5_7":{
+        "replyMessage":[
+            "MUY BIEN TE COMPARTO LAS MAESTRÍAS Y COSTOS QUE EN UNIVERSIDAD.U.A.L TENEMOS PARA TI 😉: \n\n",
+            "*Maestrías Escolarizadas presenciales*\n",
+            "*U.A.L.Plantel San José del Cabo*\n\n",
+            "• Maestría En Educación \n",
+            " para volver al menú escriba: *Inicio* 😃😃\n",
+            " Si requiere más información escriba *más información*\n"
+        ],
+        "media":"MGC.png",
+        "trigger":null
+    },
+    "STEP_6_17":{
+        "replyMessage":[
+            "MUY BIEN TE COMPARTO LAS MAESTRÍAS Y COSTOS QUE EN UNIVERSIDAD.U.A.L TENEMOS PARA TI 😉: \n\n",
+            "*Maestrías Ejecutivas Presenciales*\n",
+            "*U.A.L.Plantel San José del Cabo*\n\n",
+            "• Maestría En Educación \n",
+            " para volver al menú escriba: *Inicio* 😃😃\n",
+            " Si requiere más información escriba *más información*\n"
+
+        ],
+        "media":"MGC.png",
+        "trigger":null
+    },
+    "STEP_6_1_7":{
+        "replyMessage":[
+            "MUY BIEN TE COMPARTO LAS MAESTRÍAS Y COSTOS QUE EN UNIVERSIDAD.U.A.L TENEMOS PARA TI 😉: \n\n",
+            "*Maestrías 100% ONLINE*\n",
+            "*U.A.L.Plantel San José del Cabo*\n\n",
+
+            "• Maestría En Derecho \n",
+            "• Maestría En Matemáticas Del Bachillerato \n",
+            "• Maestría En Paz Y Seguridad \n",
+            "• Maestría En Seguridad Pública \n",
+
+            " para volver al menú escriba: *Inicio* 😃😃\n",
+            " Si requiere más información escriba *más información*\n"
+        ],
+        "media":"MGC.png",
+        "trigger":null
+    },
+    "STEP_6_2_7":{
+        "replyMessage":[
+            "*¿Qué tipo de programa te gustaría estudiar?*\n\n",
+            "*A.8.3)* Escolarizado presencial\n",
+            "*B.8.3)* Ejecutivo Presencial\n",
+            "*C.8.3)* 100% online\n",
+            "*Escribe la opción de tu interés (ejemplo: A.8.3)*\n"
+
+              
+        ],
+        "media":null,
+        "trigger":null
+    },
+    "STEP_6_3_7":{
+        "replyMessage":[
+            "MUY BIEN TE COMPARTO LOS DOCTORADOS Y COSTOS QUE EN UNIVERSIDAD.U.A.L TENEMOS PARA TI 😉: \n\n",
+            "*DOCTORADOS PRESENCIALES*\n",
+            "*U.A.L.Plantel San José del Cabo*\n\n",
+            "• Doctorado En Educación\n",
+            "• Doctorado En Derecho Procesal\n",
+
+
+            " para volver al menú escriba: *Inicio* 😃😃\n",
+            " Si requiere más información escriba *más información*\n"
+
+            
+        ],
+        "media":null,
+        "trigger":null
+    },
+    "STEP_6_4_7":{
+        "replyMessage":[
+            "MUY BIEN TE COMPARTO LOS DOCTORADOS Y COSTOS QUE EN UNIVERSIDAD.U.A.L TENEMOS PARA TI 😉: \n\n",
+            "Doctorados ejecutivos presenciales\n",
+            "*U.A.L.Plantel San José del Cabo*\n\n",
+            "• Doctorado En Educación\n",
+            "• Doctorado En Derecho Procesal\n",
+
+            " para volver al menú escriba: *Inicio* 😃😃\n",
+            " Si requiere más información escriba *más información*\n"
+
+            
+        ],
+        "media":null,
+        "trigger":null
+    },
+
+    "STEP_6_5_7":{
+        "replyMessage":[
+            "MUY BIEN TE COMPARTO LOS DOCTORADOS Y COSTOS QUE EN UNIVERSIDAD.U.A.L TENEMOS PARA TI 😉: \n\n",
+            "Doctorados  100% ONLINE\n",
+            "*U.A.L.Plantel San José del Cabo*\n\n",
+            "• Doctorado En Educación\n",
+            " para volver al menú escriba: *Inicio* 😃😃\n",
+            " Si requiere más información escriba *más información*\n"
+              
+        ],
+        "media":null,
+        "trigger":null
+    },
+
+    "STEP_2_19":{
+        "replyMessage":[
+            "Selecciona el grado de tu interés.\n\n",
+            "*A9)* Bachillerato\n",
+            "*B9)* Licenciaturas\n",
+            "*C9)* Especialidades\n",
+            "*D9)* Maestrías\n",
+            "*E9)* Doctorados\n",
+            "*Escribe la opción de tu interés (ejemplo: A9)*\n"
+
+        ],
+        "media":null,
+        "trigger":null
+    },
+    "STEP_2_1_8":{
+        "replyMessage":[
+            "*No contamos con bachillerato en este plantel*\n",
+            "*U.A.L.Centro de Enlace Magdalena Jalisco*\n\n",
+            " para volver al menú escriba: *Inicio* 😃😃\n",
+            " Si requiere más información escriba *más información*\n"
+
+        ],
+        "media":null,
+        "trigger":null
+    },
+    "STEP_2_2_8":{
+        "replyMessage":[
+            "*¿Qué tipo de programa te gustaría estudiar?*\n\n",
+            "*A.9)* Escolarizado presencial\n",
+            "*B.9)* Ejecutivo Presencial\n",
+            "*C.9)* 100% online\n"
+        ],
+        "media":null,
+        "trigger":null
+    },
+    "STEP_2_3_8":{
+        "replyMessage":[
+            "MUY BIEN TE COMPARTO LAS LICENCIATURAS Y COSTOS QUE EN UNIVERSIDAD.U.A.L TENEMOS PARA TI 😉: \n\n",
+            
+            "*Licenciaturas Escolarizadas presenciales*\n",
+            "*U.A.L.Centro de Enlace Magdalena Jalisco*\n\n",
+
+            "• Licenciatura En Administración\n",
+            "• Licenciatura En Contaduría Pública\n",
+            "• Licenciatura En Derecho\n",
+            "• Licenciatura En Negocios Internacionales\n",
+            "• Licenciatura En Pedagogía \n",
+            "• Licenciatura En Psicología\n",
+            " para volver al menú escriba: *Inicio* 😃😃\n",
+            " Si requiere más información escriba *más información*\n"
+            
+        ],
+        "media":null,
+        "trigger":null
+    },
+    "STEP_2_4_8":{
+        "replyMessage":[
+
+            "MUY BIEN TE COMPARTO LAS LICENCIATURAS Y COSTOS QUE EN UNIVERSIDAD.U.A.L TENEMOS PARA TI 😉: \n\n",
+            "*Licenciaturas Ejecutivas Presénciales\n",
+            "*U.A.L.Centro de Enlace Magdalena Jalisco*\n\n",
+            "• Licenciatura En Administración\n",
+            "• Licenciatura En Contaduría Pública\n",
+            "• Licenciatura En Derecho\n",
+            "• Licenciatura En Negocios Internacionales\n",
+            "• Licenciatura En Pedagogía \n",
+            "• Licenciatura En Psicología\n",
+            " para volver al menú escriba: *Inicio* 😃😃\n",
+            " Si requiere más información escriba *más información*\n"
+        ],
+        "media":"LEM.png",
+        "trigger":null
+    },
+    "STEP_3_8":{
+        "replyMessage":[
+            "MUY BIEN TE COMPARTO LAS LICENCIATURAS Y COSTOS QUE EN UNIVERSIDAD.U.A.L TENEMOS PARA TI 😉: \n\n",
+            "*Licenciaturas 100% ONLINE*\n",
+            "*U.A.L.Centro de Enlace Magdalena Jalisco*\n\n",
+
+            "• Licenciatura En Filosofía Y Análisis Del Discurso\n",
+            "• Licenciatura En Relaciones Comerciales Internacionales\n",
+            "• Licenciatura En Servicio Público\n",
+            "• Licenciatura En Seguridad Y Protección Ciudadana\n",
+            "• Licenciatura En Derecho\n",
+            " para volver al menú escriba: *Inicio* 😃😃\n",
+            " Si requiere más información escriba *más información*\n"
+            
+
+        ],
+        "media":null,
+        "trigger":null
+    },
+
+
+    "STEP_4_18":{
+        "replyMessage":[
+            
+            "*¿Qué tipo de programa te gustaría estudiar?*\n\n",
+            "*A.9.1)* Escolarizado presencial\n",
+            "*B.9.1)* Ejecutivo Presencial\n",
+            "*C.9.1)* 100% online\n",
+            "*Escribe la opción de tu interés (ejemplo: A.9.1)*\n"
+
+        ],
+        "media":null,
+        "trigger":null
+    },
+    
+    "STEP_5_1_8":{
+        "replyMessage":[
+            "MUY BIEN TE COMPARTO LAS ESPECIALIDADES Y COSTOS QUE EN UNIVERSIDAD.U.A.L TENEMOS PARA TI 😉: \n\n",
+            "*Especialidades Escolarizadas presenciales*\n",
+            "*U.A.L.Centro de Enlace Magdalena Jalisco*\n\n",
+
+
+            "• Especialidad En Administración\n",
+            "• Especialidad En Amparo\n",
+            "• Especialidad En Auditoria\n",
+            "• Especialidad En Derecho Civil\n",
+            "• Especialidad En Derecho Penal\n",
+            "• Especialidad En Empresas Y Negocios\n",
+            "• Especialidad En Gestión Educativa\n",
+
+            " para volver al menú escriba: *Inicio* 😃😃\n",
+            " Si requiere más información escriba *más información*\n"
+        ],
+        "media":null,
+        "trigger":null
+    },
+    "STEP_5_2_8":{
+        "replyMessage":[
+            "MUY BIEN TE COMPARTO LAS ESPECIALIDADES Y COSTOS QUE EN UNIVERSIDAD.U.A.L TENEMOS PARA TI 😉: \n\n",
+            "*Especialidades Ejecutivas Presenciales\n",
+            "*U.A.L.Centro de Enlace Magdalena Jalisco*\n\n",
+            
+            "• Especialidad En Administración\n",
+            "• Especialidad En Amparo\n",
+            "• Especialidad En Auditoria\n",
+            "• Especialidad En Derecho Civil\n",
+            "• Especialidad En Derecho Penal\n",
+            "• Especialidad En Empresas Y Negocios\n",
+            "• Especialidad En Gestión Educativa\n",
+
+            " para volver al menú escriba: *Inicio* 😃😃\n",
+            " Si requiere más información escriba *más información*\n"
+
+        
+            
+        ],
+        "media":null,
+        "trigger":null
+    },
+    "STEP_5_3_8":{
+        "replyMessage":[
+            "PENDIENTE ESPECIALDADES ONLINE PLANTEL 9\n",
+            "*U.A.L.Centro de Enlace Magdalena Jalisco*\n\n",
+            " para volver al menú escriba: *Inicio* 😃😃\n",
+            " Si requiere más información escriba *más información*\n"
+        ],
+        "media":null,
+        "trigger":null
+    },
+    "STEP_5_4_8":{
+        "replyMessage":[
+            "*¿Qué tipo de programa te gustaría estudiar?*\n\n",
+            "*A.9.2)* Escolarizado presencial\n",
+            "*B.9.2)* Ejecutivo Presencial\n",
+            "*C.9.2)* 100% online\n",
+            "*Escribe la opción de tu interés (ejemplo: A.9.2)*\n"
+
+        ],
+        "media":null,
+        "trigger":null
+    },
+    "STEP_5_5_8":{
+        "replyMessage":[
+            "MUY BIEN TE COMPARTO LAS MAESTRÍAS Y COSTOS QUE EN UNIVERSIDAD.U.A.L TENEMOS PARA TI 😉: \n\n",
+            "*Maestrías Escolarizadas presenciales*\n",
+            "*U.A.L.Centro de Enlace Magdalena Jalisco*\n\n",
+            "• Maestría En Educación \n",
+            " para volver al menú escriba: *Inicio* 😃😃\n",
+            " Si requiere más información escriba *más información*\n"
+        ],
+        "media":"MGM,png",
+        "trigger":null
+    },
+    "STEP_6_18":{
+        "replyMessage":[
+            "MUY BIEN TE COMPARTO LAS MAESTRÍAS Y COSTOS QUE EN UNIVERSIDAD.U.A.L TENEMOS PARA TI 😉: \n\n",
+            "*Maestrías Ejecutivas Presenciales*\n",
+            "*U.A.L.Centro de Enlace Magdalena Jalisco*\n\n",
+            "• Maestría En Educación \n",
+            " para volver al menú escriba: *Inicio* 😃😃\n",
+            " Si requiere más información escriba *más información*\n"
+
+        ],
+        "media":null,
+        "trigger":null
+    },
+    "STEP_6_1_8":{
+        "replyMessage":[
+            "MUY BIEN TE COMPARTO LAS MAESTRÍAS Y COSTOS QUE EN UNIVERSIDAD.U.A.L TENEMOS PARA TI 😉: \n\n",
+            "*Maestrías 100% ONLINE*\n",
+            "*U.A.L.Centro de Enlace Magdalena Jalisco*\n\n",
+
+            "• Maestría En Derecho \n",
+            "• Maestría En Matemáticas Del Bachillerato \n",
+            "• Maestría En Paz Y Seguridad \n",
+            "• Maestría En Seguridad Pública \n",
+            " para volver al menú escriba: *Inicio* 😃😃\n",
+            " Si requiere más información escriba *más información*\n"
+        ],
+        "media":null,
+        "trigger":null
+    },
+    "STEP_6_2_8":{
+        "replyMessage":[
+            "*¿Qué tipo de programa te gustaría estudiar?*\n\n",
+            "*A.9.3)* Escolarizado presencial\n",
+            "*B.9.3)* Ejecutivo Presencial\n",
+            "*C.9.3)* 100% online\n",
+            "*Escribe la opción de tu interés (ejemplo: A.9.3)*\n"
+
+              
+        ],
+        "media":null,
+        "trigger":null
+    },
+    "STEP_6_3_8":{
+        "replyMessage":[
+            "MUY BIEN TE COMPARTO LOS DOCTORADOS Y COSTOS QUE EN UNIVERSIDAD.U.A.L TENEMOS PARA TI 😉: \n\n",
+            "*DOCTORADOS PRESENCIALES*\n",
+            "*U.A.L.Centro de Enlace Magdalena Jalisco*\n\n",
+            "• Doctorado En Educación\n",
+            "• Doctorado En Derecho Procesal\n",
+
+            " para volver al menú escriba: *Inicio* 😃😃\n",
+            " Si requiere más información escriba *más información*\n"
+
+            
+        ],
+        "media":null,
+        "trigger":null
+    },
+    "STEP_6_4_8":{
+        "replyMessage":[
+            "MUY BIEN TE COMPARTO LOS DOCTORADOS Y COSTOS QUE EN UNIVERSIDAD.U.A.L TENEMOS PARA TI 😉: \n\n",
+            "Doctorados ejecutivos presenciales\n",
+            "*U.A.L.Centro de Enlace Magdalena Jalisco*\n\n",
+            "• Doctorado En Educación\n",
+            "• Doctorado En Derecho Procesal\n",
+            " para volver al menú escriba: *Inicio* 😃😃\n",
+            " Si requiere más información escriba *más información*\n"
+           
+        ],
+        "media":null,
+        "trigger":null
+    },
+
+    "STEP_6_5_8":{
+        "replyMessage":[
+            "MUY BIEN TE COMPARTO LOS DOCTORADOS Y COSTOS QUE EN UNIVERSIDAD.U.A.L TENEMOS PARA TI 😉: \n\n",
+            "• Doctorados 100% ONLINE\n",
+            "*U.A.L.Centro de Enlace Magdalena Jalisco*\n\n",
+            "• Doctorado En Educación\n",
+            " para volver al menú escriba: *Inicio* 😃😃\n",
+            " Si requiere más información escriba *más información*\n"
+              
+        ],
+        "media":null,
+        "trigger":null
+
+    },
+
+    "STEP_2_29":{
+        "replyMessage":[
+            "Otros Planteles🏫\n",
+            "*9*. U.A.L. Centro de Enlace Magdalena Jalisco🏫\n",
+            "*10*. U.A.L. Centro de Enlace Etzatlan🏫\n",
+            "*11*. U.A.L. Centro de Enlace Nezahualcoyotl🏫\n",  
+            "*12*. U.A.L. Centro de Enlace Texcaltitlan🏫\n",
+            "*Escriba el número de su preferencia* 😁😁\n\n",
+            "Para volver al menú escriba: *Inicio* 😃😃\n"
+
+        ],
+        "media":null,
+        "trigger":null
+    },
+
+    "STEP_2_31":{
+        "replyMessage":[
+            "*Te comparto la información del Centro de Enlace Etzatlan 😉*\n\n",
+            "Para Información más detallada a cerca de las carreras que ofertan, ",
+            "comunícate al número *386 753 0979*\n\n",
+            "Para volver al menú escriba: *Inicio* 😃😃\n"
+           
+
+        ],
+        "media":null,
+        "trigger":null
+    },
+
+    "STEP_2_32":{
+        "replyMessage":[
+            "*Te comparto la información del Centro de Enlace Nezahualcóyotl😉*\n\n",
+            "Para Información más detallada a cerca de las carreras que ofertan, ",
+            "comunícate al numero *556 6O5 8089*\n\n",
+            "Para volver al menú escriba: *Inicio* 😃😃\n"
+        ],
+        "media":"Costos-Nezahualcoyotl.pdf",
+        "trigger":null
+    },
+    "STEP_2_33":{
+        "replyMessage":[
+              
+            "*Te comparto la información del Centro de Enlace Texcaltitlan 😉*\n\n",
+            "Para Información más detallada a cerca de las carreras que ofertan, ",
+            "comunícate al numero *722 602 2236*\n\n",
+            "Para volver al menú escriba: *Inicio* 😃😃\n"
+           
+
+        ],
+        "media":"Costos-Texcaltitlan.pdf",
+        "trigger":null
+    },
+
+
+
+    "STEP_6_5_19":{
+        "replyMessage":[
+            "*EN BREVE UN ASESOR EDUCATIVO SE PONDRA EN CONTACTO CONTIGO…*"
+
+        ],
+        "media":null,
+        "trigger":null
+    },
+
+    "STEP_7_5_19":{
+        "replyMessage":[
+            "Espero la información te allá sido de ayuda😉, hasta luego👋🏽"
+
+        ],
+        "media":null,
+        "trigger":null
+    }
+   
+}
